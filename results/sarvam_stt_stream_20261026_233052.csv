@@ -1,0 +1,2 @@
+clip_id,type,language_code,run,audio_s,speech_end_s_est,connect_ms,delay_file_ms,delay_speech_ms,vad_end_after_speech_ms,segments,arrived_after_padding,billed_audio_s,text,error
+C1,clean,en-IN,1,7.445,6.72,405,671,1396,1232,1,0,11.46,"Hi, I'm calling about my gold loan. My account number ends in 4521. Can you tell me the due date?",

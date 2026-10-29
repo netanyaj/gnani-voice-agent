@@ -1,0 +1,56 @@
+[
+  {
+    "clip_id": "C1",
+    "type": "clean",
+    "language_code": "en-IN",
+    "run": 1,
+    "audio_s": 7.445,
+    "speech_end_s_est": 6.72,
+    "connect_ms": 405,
+    "delay_file_ms": 671,
+    "delay_speech_ms": 1396,
+    "vad_end_after_speech_ms": 1232,
+    "segments": 1,
+    "arrived_after_padding": 0,
+    "billed_audio_s": 11.46,
+    "text": "Hi, I'm calling about my gold loan. My account number ends in 4521. Can you tell me the due date?",
+    "error": "",
+    "detail": {
+      "connect_ms": 405,
+      "segments": 1,
+      "text": "Hi, I'm calling about my gold loan. My account number ends in 4521. Can you tell me the due date?",
+      "final_arrival_s_after_end": 0.671058792155236,
+      "vad_end_s_after_end": 0.5062095420435071,
+      "arrived_after_padding": 0,
+      "billed_audio_s": 11.46,
+      "errors": [],
+      "session_begin": {
+        "event": "session.begin",
+        "request_id": "20261026_af35e947-3b63-418d-a5d3-a21eaabf33f0",
+        "config": {
+          "model": "saaras:v4",
+          "language_code": "en-IN",
+          "encoding": "linear16",
+          "sample_rate": 16000,
+          "stream_type": "balanced",
+          "mode": "transcribe",
+          "prompt": null,
+          "keyterms": null,
+          "turn_detection": "vad",
+          "threshold": 0.3,
+          "prefix_padding_ms": 300,
+          "silence_duration_ms": 1000,
+          "min_speech_duration_ms": 250,
+          "return_timestamps": false
+        }
+      },
+      "session_end": {
+        "event": "session.end",
+        "request_id": "20261026_af35e947-3b63-418d-a5d3-a21eaabf33f0",
+        "total_duration_s": 11.5,
+        "total_utterances": 1,
+        "audio_duration_s": 11.46
+      }
+    }
+  }
+]

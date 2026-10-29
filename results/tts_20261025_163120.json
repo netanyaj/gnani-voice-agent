@@ -1,0 +1,56 @@
+{
+  "script": {
+    "EN": "Your gold loan GL-KOC-104521 of Rs 1,85,000 is due on 28 October 2026. The total payable is Rs 1,95,165, including interest of Rs 10,165 at 10.5% a year. Your pledged gold weighs 18.0 grams. Quote reference PLC-2291-XB when you renew.",
+    "ML-EN": "അനിത, നിങ്ങളുടെ gold loan GL-KOC-104521-ന്റെ due date 28 October 2026 ആണ്. ആകെ അടയ്ക്കേണ്ടത് Rs 1,95,165."
+  },
+  "rest": [],
+  "sse": [],
+  "vc": {
+    "kind": "voice_clone",
+    "ref_file": "results/audio_16k/voice_ref_44k.wav",
+    "embed_status": 200,
+    "embed_ms": 1068,
+    "embed_headers": {
+      "Date": "Sun, 25 Oct 2026 11:01:22 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "server": "cloudflare",
+      "x-api-request-id": "01a172b8-e270-75e1-af61-297498fea905",
+      "cf-cache-status": "DYNAMIC",
+      "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=i5fIjbOU35FxGUc89ugMMjUNU2AfGFvgQsSlX6ezPKPH3S6Dq%2B609CdJiHj6nllkw%2FDQr0C3JLTPRflGO4OxOmEQexBtq9aZ99R4SxFioOYlRzDZqEaR%2FPMg3E1%2BBkms\"}]}",
+      "Content-Encoding": "gzip",
+      "CF-RAY": "a500b907e9367858-COK"
+    },
+    "embed_response_keys": [
+      "data",
+      "message",
+      "success"
+    ],
+    "embedding_shape": [
+      1,
+      768
+    ],
+    "embedding_dtype": "torch.bfloat16",
+    "tts_status": 200,
+    "tts_ms": 20640,
+    "chars": 234,
+    "tts_headers": {
+      "Date": "Sun, 25 Oct 2026 11:01:41 GMT",
+      "Content-Type": "audio/wav",
+      "Content-Length": "2336580",
+      "Connection": "keep-alive",
+      "server": "cloudflare",
+      "content-disposition": "attachment; filename=audio.wav",
+      "x-audio-container": "wav",
+      "x-api-request-id": "01a172b8-e4dc-79eb-83d4-216796f322d1",
+      "cf-cache-status": "DYNAMIC",
+      "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=cwxOoAQe%2BNiHxkU%2B3Zg7sYLdklPNS2VuMXDqjpY9fSeNeJQM8Usejq9aX6nz6F%2FRxneeiTKMX9iXnocP8TxeeXy%2FKq6Y2IKorSUbWvOokwqa%2FaqNVZkd8KMKTlotEx4y\"}]}",
+      "CF-RAY": "a500b90e0c7edfac-COK"
+    },
+    "file": "results/tts/20261025_163120_vachana-vc-v1_EN_myvoice.wav",
+    "audio_s": 26.49
+  }
+}

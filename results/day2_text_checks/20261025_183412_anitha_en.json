@@ -1,0 +1,53 @@
+{
+  "case": "anitha_en",
+  "customer": "GL-KOC-104521",
+  "lang": "en-IN",
+  "llm": "gemini-3.5-flash-lite",
+  "turns": [
+    {
+      "user": "Yes, this is Anitha.",
+      "agent": "Hello, I am an AI assistant from Nila Gold Loans. Could you please provide the last 4 digits of your loan account number for verification?",
+      "tools": [],
+      "ms": 1602
+    },
+    {
+      "user": "4521",
+      "agent": "Thank you for verifying. Your loan account number is GL-KOC-104521. The loan amount is Rs 1,85,000, your due date is 28 October 2026, and the total due on the due date is Rs 1,95,165. Would you like to renew, make a part-payment, or would you prefer a callback?",
+      "tools": [
+        "verify_account({\"last4\": \"4521\"})"
+      ],
+      "ms": 3017
+    },
+    {
+      "user": "I want to renew it.",
+      "agent": "We have agreed to renew your loan by paying the interest due by 28 October 2026.",
+      "tools": [
+        "record_outcome({\"date\": \"2026-10-28\", \"outcome\": \"renewal\", \"summary\": \"Customer agreed to renew the loan by the due date on 28 October 2026.\", \"amount_inr\": null})"
+      ],
+      "ms": 1940
+    },
+    {
+      "user": "No, that's all, thanks.",
+      "agent": "We have recorded your renewal for 28 October 2026. Have a wonderful day.",
+      "tools": [],
+      "ms": 1106
+    }
+  ],
+  "tool_log": [
+    {
+      "kind": "verify",
+      "said": "4521",
+      "digits": "4521",
+      "attempt": 1,
+      "result": "ok"
+    },
+    {
+      "kind": "outcome",
+      "outcome": "renewal",
+      "summary": "Customer agreed to renew the loan by the due date on 28 October 2026.",
+      "amount_inr": null,
+      "date": "2026-10-28",
+      "verified": true
+    }
+  ]
+}

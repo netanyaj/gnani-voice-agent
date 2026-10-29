@@ -1,0 +1,49 @@
+[
+  {
+    "clip_id": "C1",
+    "type": "clean",
+    "language_code": "en-IN",
+    "run": 1,
+    "audio_s": 7.445,
+    "speech_end_s_est": 6.72,
+    "trailing_silence_s_est": 0.725,
+    "connect_ms": 624,
+    "delay_file_ms": 382,
+    "delay_speech_ms": 1107,
+    "server_latency_ms_last": 245,
+    "segments": 1,
+    "arrived_after_padding": 0,
+    "text": "hi i'm calling about my gold loan my account number ends in 4521 can you tell me the due date",
+    "error": "",
+    "detail": {
+      "connect_ms": 624,
+      "segments": 1,
+      "text": "hi i'm calling about my gold loan my account number ends in 4521 can you tell me the due date",
+      "final_arrival_s_after_end": 0.38182174996472895,
+      "first_processing_s_after_end": null,
+      "server_latency_ms": [
+        245
+      ],
+      "segment_audio_ms": [
+        7124.0
+      ],
+      "arrived_after_padding": 0,
+      "errors": [],
+      "connected_msg": {
+        "type": "connected",
+        "message": "STT service ready — VAD service connected",
+        "request_id": "01a172af-af31-758b-9a56-a4e7a6428f4c",
+        "config": {
+          "sample_rate": 16000,
+          "chunk_size": 512,
+          "partials_enabled": false,
+          "partial_interval_ms": 450,
+          "partial_max_window_s": 15.0,
+          "language_code": "en-IN",
+          "format": "verbatim"
+        },
+        "timestamp": "2026-10-25T10:51:18.793059+00:00"
+      }
+    }
+  }
+]

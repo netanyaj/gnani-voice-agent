@@ -1,0 +1,4 @@
+clip_id,type,format,language_code,ref_words,strict_S,strict_D,strict_I,wer_strict,lenient_words,lenient_S,lenient_D,lenient_I,wer_lenient,numbers_correct,numbers_total,numbers_detail,numbers_found_in_hyp,script_notes,hypothesis
+C1,clean,default,en-IN,24,1,3,0,0.167,21,0,0,0,0.0,1,1,4521:OK,4521 → 4521,,hi i'm calling about my gold loan my account number ends in 4521 can you tell me the due date
+C1,clean,verbatim,en-IN,24,0,0,0,0.0,21,0,0,0,0.0,1,1,4521:OK,four five two one → 4521,,hi i'm calling about my gold loan my account number ends in four five two one can you tell me the due date
+C1,clean,transcribe,en-IN,24,1,3,0,0.167,21,0,0,0,0.0,1,1,4521:OK,4521 → 4521,,hi i'm calling about my gold loan my account number ends in 4521 can you tell me the due date

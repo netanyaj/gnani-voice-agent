@@ -1,0 +1,13 @@
+english,variant,note
+gold,ഗോൾഡ്,M1 M2 P2 REST 25 Oct
+loan,ലോൺ,M1 P2
+renew,റിന്യൂ,M1 (P2 returned റിവ്യൂ = review: a wrong word; not listed)
+interest,ഇന്ററസ്റ്റ്,M1 (stored after chillu normalisation of ഇൻ്ററസ്റ്റ്)
+interest,ഇൻട്രസ്റ്റ്,P2 (alternative spelling)
+rate,റേറ്റ്,M1 P2
+due,ഡ്യൂ,M2
+date,ഡേറ്റ്,M2
+penalty,പെനാൽറ്റി,M2
+next,നെക്സ്റ്റ്,M2
+week,വീക്ക്,M2
+pay,പേ,M2

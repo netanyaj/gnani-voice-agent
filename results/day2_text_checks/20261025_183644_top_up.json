@@ -1,0 +1,53 @@
+{
+  "case": "top_up",
+  "customer": "GL-EKM-131408",
+  "lang": "en-IN",
+  "llm": "gemini-3.5-flash-lite",
+  "turns": [
+    {
+      "user": "Yes, Suresh here.",
+      "agent": "Hello, I am an AI assistant from Nila Gold Loans. For security, could you please tell me the last 4 digits of your loan account number?",
+      "tools": [],
+      "ms": 1396
+    },
+    {
+      "user": "1408",
+      "agent": "Thank you for verifying. Your loan account GL-EKM-131408 has a loan amount of Rs 3,80,000, and the total due on your due date of 15 November 2026 is Rs 3,98,965, with an interest due of Rs 16,697. Would you like to renew, make a part-payment, or schedule a callback?",
+      "tools": [
+        "verify_account({\"last4\": \"1408\"})"
+      ],
+      "ms": 1902
+    },
+    {
+      "user": "Can I get a top-up? How much more can I get?",
+      "agent": "A top-up needs a fresh gold valuation within the loan-to-value cap, so you will need to book a branch visit, and I cannot promise or estimate a top-up amount. Would you like me to arrange a branch visit for that, or would you prefer to discuss renewal, part-payment, or a callback for your current loan?",
+      "tools": [],
+      "ms": 979
+    },
+    {
+      "user": "Okay, book the visit.",
+      "agent": "I have booked your branch visit for the top-up valuation.",
+      "tools": [
+        "record_outcome({\"summary\": \"Customer requested a branch visit for a top-up valuation.\", \"outcome\": \"branch_visit_topup\", \"date\": null, \"amount_inr\": null})"
+      ],
+      "ms": 2707
+    }
+  ],
+  "tool_log": [
+    {
+      "kind": "verify",
+      "said": "1408",
+      "digits": "1408",
+      "attempt": 1,
+      "result": "ok"
+    },
+    {
+      "kind": "outcome",
+      "outcome": "branch_visit_topup",
+      "summary": "Customer requested a branch visit for a top-up valuation.",
+      "amount_inr": null,
+      "date": null,
+      "verified": true
+    }
+  ]
+}

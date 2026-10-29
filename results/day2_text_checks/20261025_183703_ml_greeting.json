@@ -1,0 +1,15 @@
+{
+  "case": "ml_greeting",
+  "customer": "GL-KOC-104521",
+  "lang": "ml-IN",
+  "llm": "gemini-3.5-flash-lite",
+  "turns": [
+    {
+      "user": "ഹലോ?",
+      "agent": "Namaskaram, njan Nila Gold Loans-il ninnulla oru AI assistant aanu. Enikku Anitha Menon-odu samsarikkamo?",
+      "tools": [],
+      "ms": 1455
+    }
+  ],
+  "tool_log": []
+}

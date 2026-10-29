@@ -1,0 +1,10 @@
+requests
+websockets
+python-dotenv
+jiwer
+soundfile
+numpy
+livekit-agents==1.8.9
+livekit-plugins-gnani==1.8.9
+livekit-plugins-google==1.8.9
+livekit-plugins-silero==1.8.9

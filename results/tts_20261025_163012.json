@@ -1,0 +1,294 @@
+{
+  "script": {
+    "EN": "Your gold loan GL-KOC-104521 of Rs 1,85,000 is due on 28 October 2026. The total payable is Rs 1,95,165, including interest of Rs 10,165 at 10.5% a year. Your pledged gold weighs 18.0 grams. Quote reference PLC-2291-XB when you renew.",
+    "ML-EN": "അനിത, നിങ്ങളുടെ gold loan GL-KOC-104521-ന്റെ due date 28 October 2026 ആണ്. ആകെ അടയ്ക്കേണ്ടത് Rs 1,95,165."
+  },
+  "rest": [
+    {
+      "kind": "rest",
+      "model": "timbre-v2.5",
+      "voice": "Kaveri",
+      "language": "en-IN",
+      "line": "EN",
+      "chars": 234,
+      "http_status": 200,
+      "rtt_ms": 4936,
+      "headers": {
+        "Date": "Sun, 25 Oct 2026 11:00:13 GMT",
+        "Content-Type": "audio/wav",
+        "Content-Length": "2119724",
+        "Connection": "keep-alive",
+        "server": "cloudflare",
+        "content-disposition": "attachment; filename=audio.wav",
+        "x-audio-container": "wav",
+        "x-api-request-id": "01a172b7-d4cd-7af5-a972-0bbefa252c68",
+        "cf-cache-status": "DYNAMIC",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=WU3WJ6XuNutEXGBsgwWJirCxglnE5BIpWbcb13u5fop%2BhDqhsrz86M%2FqSYjwmvduq%2FHxAR91OBsSBy4TM5RUNuJWEnPgive%2FNg2TP4aReSxGv%2FrOi3Znn%2Bk0vciPrBwq\"}]}",
+        "CF-RAY": "a500b75abc778404-COK"
+      },
+      "file": "results/tts/20261025_163012_timbre-v2.5_EN_Kaveri.wav",
+      "audio_s": 22.08,
+      "bytes": 2119724
+    },
+    {
+      "kind": "rest",
+      "model": "timbre-v2.5",
+      "voice": "Reshma",
+      "language": "ml-IN",
+      "line": "ML-EN",
+      "chars": 105,
+      "http_status": 200,
+      "rtt_ms": 2978,
+      "headers": {
+        "Date": "Sun, 25 Oct 2026 11:00:19 GMT",
+        "Content-Type": "audio/wav",
+        "Content-Length": "1382444",
+        "Connection": "keep-alive",
+        "server": "cloudflare",
+        "content-disposition": "attachment; filename=audio.wav",
+        "x-audio-container": "wav",
+        "x-api-request-id": "01a172b7-e738-7397-a29b-514ed8c530f8",
+        "cf-cache-status": "DYNAMIC",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=%2BsQWjA6teWxpAUZxzhutpfp5rS%2BBb4DjW6cDt0uoUqpYMYBFH6f4NDLbQaZPKh4F9Ptk%2FkQMouK5Y0PqKKGS43Kle2Y0iQ3rf48MWtE0WY%2FUTOI6XeByNA1Wc4StO%2Fz6\"}]}",
+        "CF-RAY": "a500b7783e60c17d-COK"
+      },
+      "file": "results/tts/20261025_163012_timbre-v2.5_ML-EN_Reshma.wav",
+      "audio_s": 14.4,
+      "bytes": 1382444
+    },
+    {
+      "kind": "rest",
+      "model": "timbre-v3.0",
+      "voice": "Tarika",
+      "language": "en-IN",
+      "line": "EN",
+      "chars": 234,
+      "http_status": 200,
+      "rtt_ms": 4290,
+      "headers": {
+        "Date": "Sun, 25 Oct 2026 11:00:22 GMT",
+        "Content-Type": "audio/wav",
+        "Content-Length": "2987564",
+        "Connection": "keep-alive",
+        "server": "cloudflare",
+        "content-disposition": "attachment; filename=audio.wav",
+        "x-audio-container": "wav",
+        "x-api-request-id": "01a172b7-f301-747e-bcda-5f41a6c94d85",
+        "cf-cache-status": "DYNAMIC",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=M%2BgTEjXeIO68cFI4IlYho2zhDMooWvS1nh8KUli7AIwEC36F80tdYjuNZXAGKMkpPY%2FuxbyB9%2Bcj0rOBYMHTJ4CqTfzFrlJa68qGHEbpBpNrlSt5Y8De0QgxrBZgyh%2BO\"}]}",
+        "CF-RAY": "a500b78b1be57858-COK"
+      },
+      "file": "results/tts/20261025_163012_timbre-v3.0_EN_Tarika.wav",
+      "audio_s": 31.12,
+      "bytes": 2987564
+    },
+    {
+      "kind": "rest",
+      "model": "timbre-v3.0",
+      "voice": "Tarika",
+      "language": "ml-IN",
+      "line": "ML-EN",
+      "chars": 105,
+      "http_status": 200,
+      "rtt_ms": 4053,
+      "headers": {
+        "Date": "Sun, 25 Oct 2026 11:00:27 GMT",
+        "Content-Type": "audio/wav",
+        "Content-Length": "1321004",
+        "Connection": "keep-alive",
+        "server": "cloudflare",
+        "content-disposition": "attachment; filename=audio.wav",
+        "x-audio-container": "wav",
+        "x-api-request-id": "01a172b8-03f5-7637-b5ca-bb1a50b1c518",
+        "cf-cache-status": "DYNAMIC",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=F%2B5ri596DbbyfJHa6IVHHPI4H%2F%2F%2B7Aq9SkzqNk%2Fau71K7%2FxjqebaP2ivv9rNdikcUAeWioDOohZZv0WYO1nfburaRak175jjhRx0g%2BHJJ7%2FUsMBeKKST9saz1YaWOSCL\"}]}",
+        "CF-RAY": "a500b7a639f949e8-COK"
+      },
+      "file": "results/tts/20261025_163012_timbre-v3.0_ML-EN_Tarika.wav",
+      "audio_s": 13.76,
+      "bytes": 1321004
+    }
+  ],
+  "sse": [
+    {
+      "http_status": 200,
+      "headers_ms": 292,
+      "ttfa_ms": 459,
+      "total_ms": 1946,
+      "chunks": 844,
+      "event_types": [
+        "chunk",
+        "complete",
+        "start"
+      ],
+      "first_chunk_head": "52494646ffffffff57415645",
+      "file": "results/tts/20261025_163012_sse_timbre-v2.5_EN_Kaveri.wav",
+      "audio_s": 21.92,
+      "run": 1
+    },
+    {
+      "http_status": 200,
+      "headers_ms": 284,
+      "ttfa_ms": 417,
+      "total_ms": 2161,
+      "chunks": 689,
+      "event_types": [
+        "chunk",
+        "complete",
+        "start"
+      ],
+      "first_chunk_head": "52494646ffffffff57415645",
+      "run": 2
+    },
+    {
+      "http_status": 200,
+      "headers_ms": 246,
+      "ttfa_ms": 410,
+      "total_ms": 2389,
+      "chunks": 672,
+      "event_types": [
+        "chunk",
+        "complete",
+        "start"
+      ],
+      "first_chunk_head": "52494646ffffffff57415645",
+      "run": 3
+    },
+    {
+      "http_status": 200,
+      "headers_ms": 249,
+      "ttfa_ms": 382,
+      "total_ms": 2734,
+      "chunks": 714,
+      "event_types": [
+        "chunk",
+        "complete",
+        "start"
+      ],
+      "first_chunk_head": "52494646ffffffff57415645",
+      "run": 4
+    },
+    {
+      "http_status": 200,
+      "headers_ms": 227,
+      "ttfa_ms": 353,
+      "total_ms": 2529,
+      "chunks": 692,
+      "event_types": [
+        "chunk",
+        "complete",
+        "start"
+      ],
+      "first_chunk_head": "52494646ffffffff57415645",
+      "run": 5
+    },
+    {
+      "http_status": 200,
+      "headers_ms": 351,
+      "ttfa_ms": 481,
+      "total_ms": 2930,
+      "chunks": 714,
+      "event_types": [
+        "chunk",
+        "complete",
+        "start"
+      ],
+      "first_chunk_head": "52494646ffffffff57415645",
+      "run": 6
+    },
+    {
+      "http_status": 200,
+      "headers_ms": 241,
+      "ttfa_ms": 415,
+      "total_ms": 2164,
+      "chunks": 762,
+      "event_types": [
+        "chunk",
+        "complete",
+        "start"
+      ],
+      "first_chunk_head": "52494646ffffffff57415645",
+      "run": 7
+    },
+    {
+      "http_status": 200,
+      "headers_ms": 256,
+      "ttfa_ms": 480,
+      "total_ms": 2171,
+      "chunks": 606,
+      "event_types": [
+        "chunk",
+        "complete",
+        "start"
+      ],
+      "first_chunk_head": "52494646ffffffff57415645",
+      "run": 8
+    },
+    {
+      "http_status": 200,
+      "headers_ms": 287,
+      "ttfa_ms": 420,
+      "total_ms": 2228,
+      "chunks": 650,
+      "event_types": [
+        "chunk",
+        "complete",
+        "start"
+      ],
+      "first_chunk_head": "52494646ffffffff57415645",
+      "run": 9
+    },
+    {
+      "http_status": 200,
+      "headers_ms": 351,
+      "ttfa_ms": 445,
+      "total_ms": 2821,
+      "chunks": 629,
+      "event_types": [
+        "chunk",
+        "complete",
+        "start"
+      ],
+      "first_chunk_head": "52494646ffffffff57415645",
+      "run": 10
+    }
+  ],
+  "vc": {
+    "kind": "voice_clone",
+    "ref_file": "results/audio_16k/voice_ref_44k.wav",
+    "embed_status": 200,
+    "embed_ms": 1261,
+    "embed_headers": {
+      "Date": "Sun, 25 Oct 2026 11:00:53 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "server": "cloudflare",
+      "x-api-request-id": "01a172b8-737d-799e-b444-03f684374506",
+      "cf-cache-status": "DYNAMIC",
+      "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=FFHMtslgsLcUKoYOuKqXZ6aCOEByaZJi2iPF4uoxVQB4c5Trh3oKwLVSNpCsOTGdUGPNuyL%2Bp%2F4q4Qvn1b%2FydUBWsOfQf29HZQqgKjnmGiupb0WScT2nQ%2FVbTRbwlJQ%2F\"}]}",
+      "Content-Encoding": "gzip",
+      "CF-RAY": "a500b856284b74ad-COK"
+    },
+    "embed_response_keys": [
+      "data",
+      "message",
+      "success"
+    ],
+    "embedding_shape": null,
+    "embedding_dtype": null,
+    "embed_error": "(removed: response body contained the voice embedding; parser expected a different shape — see friction log #31)"
+  },
+  "sse_summary": {
+    "runs": 10,
+    "ttfa_median_ms": 418.5,
+    "ttfa_min_ms": 353,
+    "ttfa_max_ms": 481,
+    "total_median_ms": 2308.5
+  }
+}

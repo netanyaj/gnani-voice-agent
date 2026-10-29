@@ -1,0 +1,50 @@
+11 clips x 3 runs = 33 sessions, ~382 s streamed incl. padding
+C1  run 1: file-end→final 395 ms, speech-end→final 1120 ms, server latency 250 ms, 1 seg | hi i'm calling about my gold loan my account number ends in 4521 can you tell me the due date
+C1  run 2: file-end→final 387 ms, speech-end→final 1112 ms, server latency 200 ms, 1 seg | hi i'm calling about my gold loan my account number ends in 4521 can you tell me the due date
+C1  run 3: file-end→final 407 ms, speech-end→final 1132 ms, server latency 264 ms, 1 seg | hi i'm calling about my gold loan my account number ends in 4521 can you tell me the due date
+C2  run 1: file-end→final 980 ms, speech-end→final 1610 ms, server latency 268 ms, 1 seg | നമസ്കാരം എൻ്റെ പേര് അനിത എൻ്റെ സ്വർണ്ണ വായ്പയുടെ പലിശ എത്രയാണെന്നറിയണം
+C2  run 2: file-end→final 438 ms, speech-end→final 1067 ms, server latency 149 ms, 1 seg | നമസ്കാരം എൻ്റെ പേര് അനിത എൻ്റെ സ്വർണ്ണ വായ്പയുടെ പലിശ എത്രയാണെന്നറിയണം
+C2  run 3: file-end→final 467 ms, speech-end→final 1096 ms, server latency 139 ms, 1 seg | നമസ്കാരം എൻ്റെ പേര് അനിത എൻ്റെ സ്വർണ്ണ വായ്പയുടെ പലിശ എത്രയാണെന്നറിയണം
+N1  run 1: file-end→final 88 ms, speech-end→final 1166 ms, server latency 241 ms, 1 seg | hi i'm calling about my gold loan my account number ends in 4521 can you tell me the due date
+N1  run 2: file-end→final -8 ms, speech-end→final 1070 ms, server latency 158 ms, 1 seg | hi i'm calling about my gold loan my account number ends in 4521 can you tell me the due date
+N1  run 3: file-end→final 49 ms, speech-end→final 1127 ms, server latency 253 ms, 1 seg | hi i'm calling about my gold loan my account number ends in 4521 can you tell me the due date
+N2  run 1: file-end→final 565 ms, speech-end→final 864 ms, server latency 259 ms, 1 seg | നമസ്കാരം എൻ്റെ പേരാണിതാ എൻ്റെ സ്വർണ വായ്പയുടെ പലിശ എത്രയാണെന്നറിയാം
+N2  run 2: file-end→final 643 ms, speech-end→final 942 ms, server latency 276 ms, 1 seg | നമസ്കാരം എൻ്റെ പേരാണിതാ എൻ്റെ സ്വർണ വായ്പയുടെ പലിശ എത്രയാണെന്നറിയാം
+N2  run 3: file-end→final 551 ms, speech-end→final 850 ms, server latency 274 ms, 1 seg | നമസ്കാരം എൻ്റെ പേരാണിതാ എൻ്റെ സ്വർണ വായ്പയുടെ പലിശ എത്രയാണെന്നറിയാം
+M1  run 1: file-end→final 746 ms, speech-end→final 949 ms, server latency 151 ms, 1 seg | എൻ്റെ ഗോൾഡ് ലോൺ റിന്യൂ ചെയ്യണം പക്ഷേ ഇൻ്ററസ്റ്റ് റേറ്റ് എത്രയാണെന്നറിയില്ല
+M1  run 2: file-end→final 829 ms, speech-end→final 1031 ms, server latency 263 ms, 1 seg | എൻ്റെ ഗോൾഡ് ലോൺ റിന്യൂ ചെയ്യണം പക്ഷേ ഇൻ്ററസ്റ്റ് റേറ്റ് എത്രയാണെന്നറിയില്ല
+M1  run 3: file-end→final 818 ms, speech-end→final 1021 ms, server latency 245 ms, 1 seg | എൻ്റെ ഗോൾഡ് ലോൺ റിന്യൂ ചെയ്യണം പക്ഷേ ഇൻ്ററസ്റ്റ് റേറ്റ് എത്രയാണെന്നറിയില്ല
+M2  run 1: file-end→final 627 ms, speech-end→final 947 ms, server latency 227 ms, 1 seg | ഡ്യൂ ഡേറ്റ് കഴിഞ്ഞാൽ പെനാൽറ്റി ഉണ്ടോ ഞാൻ നെക്സ്റ്റ് വീക്ക് പേ ചെയ്യാം
+M2  run 2: file-end→final 570 ms, speech-end→final 890 ms, server latency 150 ms, 1 seg | ഡ്യൂ ഡേറ്റ് കഴിഞ്ഞാൽ പെനാൽറ്റി ഉണ്ടോ ഞാൻ നെക്സ്റ്റ് വീക്ക് പേ ചെയ്യാം
+M2  run 3: file-end→final 652 ms, speech-end→final 972 ms, server latency 239 ms, 1 seg | ഡ്യൂ ഡേറ്റ് കഴിഞ്ഞാൽ പെനാൽറ്റി ഉണ്ടോ ഞാൻ നെക്സ്റ്റ് വീക്ക് പേ ചെയ്യാം
+D1  run 1: file-end→final 528 ms, speech-end→final 1157 ms, server latency 221 ms, 1 seg | my loan account number is 7309418265 and the outstanding amount is ₹1,84,500
+D1  run 2: file-end→final 882 ms, speech-end→final 1511 ms, server latency 226 ms, 1 seg | my loan account number is 7309418265 and the outstanding amount is ₹1,84,500
+D1  run 3: file-end→final 568 ms, speech-end→final 1197 ms, server latency 285 ms, 1 seg | my loan account number is 7309418265 and the outstanding amount is ₹1,84,500
+D2  run 1: file-end→final -125 ms, speech-end→final 888 ms, server latency 159 ms, 1 seg | i pledged 42.5 grams of 22 carat gold on 14th March 2026
+D2  run 2: file-end→final 3 ms, speech-end→final 1016 ms, server latency 203 ms, 1 seg | i pledged 42.5 grams of 22 carat gold on 14th March 2026
+D2  run 3: file-end→final -43 ms, speech-end→final 971 ms, server latency 228 ms, 1 seg | i pledged 42.5 grams of 22 carat gold on 14th March 2026
+D3  run 1: file-end→final 606 ms, speech-end→final 1065 ms, server latency 234 ms, 1 seg | എനിക്ക് രണ്ട് ലക്ഷത്തി പതിനായിരം രൂപ വേണം പലിശ ഒൻപതായിരം ശതമാനം
+D3  run 2: file-end→final 467 ms, speech-end→final 926 ms, server latency 147 ms, 1 seg | എനിക്ക് രണ്ട് ലക്ഷത്തി പതിനായിരം രൂപ വേണം പലിശ ഒൻപതായിരം ശതമാനം
+D3  run 3: file-end→final 566 ms, speech-end→final 1024 ms, server latency 251 ms, 1 seg | എനിക്ക് രണ്ട് ലക്ഷത്തി പതിനായിരം രൂപ വേണം പലിശ ഒൻപതായിരം ശതമാനം
+P1  run 1: file-end→final -5362 ms, speech-end→final -5302 ms, server latency 54 ms, 2 seg | my loan account number is 7309412265 and the outstanding amount is ₹1,84,500 
+P1  run 2: file-end→final -5345 ms, speech-end→final -5285 ms, server latency 77 ms, 2 seg | my loan account number is 7309412265 and the outstanding amount is ₹1,84,500 
+P1  run 3: file-end→final -5123 ms, speech-end→final -5063 ms, server latency 298 ms, 2 seg | my loan account number is 7309412265 and the outstanding amount is ₹1,84,500 
+P2  run 1: file-end→final -1484 ms, speech-end→final 934 ms, server latency 258 ms, 1 seg | എൻ്റെ ഗോൾഡ് ലോൺ റിന്യൂ ചെയ്യണം പക്ഷേ ഇൻട്രസ്റ്റ് റേറ്റ് എത്രയാണെന്ന് അറിയില്ല
+P2  run 2: file-end→final -1459 ms, speech-end→final 960 ms, server latency 283 ms, 1 seg | എൻ്റെ ഗോൾഡ് ലോൺ റിന്യൂ ചെയ്യണം പക്ഷേ ഇൻട്രസ്റ്റ് റേറ്റ് എത്രയാണെന്ന് അറിയില്ല
+P2  run 3: file-end→final -1570 ms, speech-end→final 848 ms, server latency 167 ms, 1 seg | എൻ്റെ ഗോൾഡ് ലോൺ റിന്യൂ ചെയ്യണം പക്ഷേ ഇൻട്രസ്റ്റ് റേറ്റ് എത്രയാണെന്ന് അറിയില്ല
+
+| Clip | Runs | file-end→final median (range) ms | speech-end→final median (range) ms | server latency median ms |
+|---|---|---|---|---|
+| C1 | 3 | 395 (387–407) | 1120 (1112–1132) | 250 |
+| C2 | 3 | 467 (438–980) | 1096 (1067–1610) | 149 |
+| N1 | 3 | 49 (-8–88) | 1127 (1070–1166) | 241 |
+| N2 | 3 | 565 (551–643) | 864 (850–942) | 274 |
+| M1 | 3 | 818 (746–829) | 1021 (949–1031) | 245 |
+| M2 | 3 | 627 (570–652) | 947 (890–972) | 227 |
+| D1 | 3 | 568 (528–882) | 1197 (1157–1511) | 226 |
+| D2 | 3 | -43 (-125–3) | 971 (888–1016) | 203 |
+| D3 | 3 | 566 (467–606) | 1024 (926–1065) | 234 |
+| P1 | 3 | -5345 (-5362–-5123) | -5285 (-5302–-5063) | 77 |
+| P2 | 3 | -1484 (-1570–-1459) | 934 (848–960) | 258 |
+| ALL | 33 | 467 (-5362–980) | 1016 (-5302–1610) | |
+saved results/stt_stream_20261025_162936.json and .csv

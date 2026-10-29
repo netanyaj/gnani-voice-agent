@@ -1,0 +1,116 @@
+[
+  {
+    "clip_id": "C1",
+    "type": "clean",
+    "language_code": "en-IN",
+    "format": "default",
+    "http_status": 200,
+    "rtt_ms": 2086,
+    "audio_s": 7.45,
+    "transcript": "hi i'm calling about my gold loan my account number ends in 4521 can you tell me the due date",
+    "literal": "hi i'm calling about my gold loan my account number ends in four five two one can you tell me the due date",
+    "model": "gnani-prisma-v2.5",
+    "request_id": "01a172ac-7cbc-7764-bd6e-50c4abbc0bf6",
+    "processing_time_s": 0.14513301849365234,
+    "end_to_end_latency_s": 0.2708415985107422,
+    "error": "",
+    "raw_body": {
+      "success": true,
+      "request_id": "01a172ac-7cbc-7764-bd6e-50c4abbc0bf6",
+      "transcript": "hi i'm calling about my gold loan my account number ends in 4521 can you tell me the due date",
+      "model": "gnani-prisma-v2.5",
+      "processing_time": 0.14513301849365234,
+      "end_to_end_latency": 0.2708415985107422,
+      "output": {
+        "literal": "hi i'm calling about my gold loan my account number ends in four five two one can you tell me the due date"
+      }
+    },
+    "headers": {
+      "Date": "Sun, 25 Oct 2026 10:47:49 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "server": "cloudflare",
+      "cf-cache-status": "DYNAMIC",
+      "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=eTloNLGLzf0%2FUtWnSnL1CfPTc5%2F%2BJyhtYyhYRAXD9U6e2BcqWcEN97e2z4lu5afn4wcrKKpg8OCcG5j9nr34z6hcIoHR5xOTZIZTDRiGPcSc1D4A2b9IqJC1dtr4SGwU\"}]}",
+      "Content-Encoding": "gzip",
+      "CF-RAY": "a500a5325e814bc1-COK"
+    }
+  },
+  {
+    "clip_id": "C1",
+    "type": "clean",
+    "language_code": "en-IN",
+    "format": "verbatim",
+    "http_status": 200,
+    "rtt_ms": 810,
+    "audio_s": 7.45,
+    "transcript": "hi i'm calling about my gold loan my account number ends in four five two one can you tell me the due date",
+    "literal": "",
+    "model": "gnani-prisma-v2.5",
+    "request_id": "01a172ac-7fe7-7939-acfc-c244bd826cc0",
+    "processing_time_s": 0.0934441089630127,
+    "end_to_end_latency_s": 0.2757692337036133,
+    "error": "",
+    "raw_body": {
+      "success": true,
+      "request_id": "01a172ac-7fe7-7939-acfc-c244bd826cc0",
+      "transcript": "hi i'm calling about my gold loan my account number ends in four five two one can you tell me the due date",
+      "model": "gnani-prisma-v2.5",
+      "processing_time": 0.0934441089630127,
+      "end_to_end_latency": 0.2757692337036133
+    },
+    "headers": {
+      "Date": "Sun, 25 Oct 2026 10:47:50 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "server": "cloudflare",
+      "cf-cache-status": "DYNAMIC",
+      "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=RuIpxPflh4uT9BTETv%2FYygP15wj4hJvuh07P75rZjHMrC9%2BRqKsWgXHHBWYQe%2BuSx1SG%2Fo0NdpX6EIwTAwMe92zAzj%2FkZ3pnSzTRyxEFajvcEn3%2B0pCPGuz4q70VfV%2FQ\"}]}",
+      "Content-Encoding": "gzip",
+      "CF-RAY": "a500a5379a0d816c-COK"
+    }
+  },
+  {
+    "clip_id": "C1",
+    "type": "clean",
+    "language_code": "en-IN",
+    "format": "transcribe",
+    "http_status": 200,
+    "rtt_ms": 711,
+    "audio_s": 7.45,
+    "transcript": "hi i'm calling about my gold loan my account number ends in 4521 can you tell me the due date",
+    "literal": "hi i'm calling about my gold loan my account number ends in four five two one can you tell me the due date",
+    "model": "gnani-prisma-v2.5",
+    "request_id": "01a172ac-82c5-7af0-ba4d-dfcfe0b2043d",
+    "processing_time_s": 0.17911195755004883,
+    "end_to_end_latency_s": 0.2581443786621094,
+    "error": "",
+    "raw_body": {
+      "success": true,
+      "request_id": "01a172ac-82c5-7af0-ba4d-dfcfe0b2043d",
+      "transcript": "hi i'm calling about my gold loan my account number ends in 4521 can you tell me the due date",
+      "model": "gnani-prisma-v2.5",
+      "processing_time": 0.17911195755004883,
+      "end_to_end_latency": 0.2581443786621094,
+      "output": {
+        "literal": "hi i'm calling about my gold loan my account number ends in four five two one can you tell me the due date"
+      }
+    },
+    "headers": {
+      "Date": "Sun, 25 Oct 2026 10:47:51 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "server": "cloudflare",
+      "cf-cache-status": "DYNAMIC",
+      "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=JKDtMmI2o9nDHLadJEhRX7BLFptwTW9s3OH9soqHBiVMhHz1qWGlmfu6sd8C1KCyEa0RTP7FgowxtGRqFdDAIHqKBdalkfMLRPLaw7%2B37MjSTMeQnBk3BfxqrrE7kF3i\"}]}",
+      "Content-Encoding": "gzip",
+      "CF-RAY": "a500a53cc9288404-COK"
+    }
+  }
+]

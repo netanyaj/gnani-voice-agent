@@ -1,0 +1,2 @@
+clip_id,type,language_code,format,model,http_status,rtt_ms,audio_s,transcript,detected_language,request_id,error
+C1,clean,en-IN,verbatim,saaras:v4,200,1388,7.45,Hi I am calling about my gold loan my account number ends in four five two one can you tell me the due date,en-IN,20261026_76c96a28-baaa-4585-aaf3-5fbbce07d1d5,

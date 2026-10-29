@@ -1,0 +1,16 @@
+{
+  "label": "T18-R",
+  "customer": "GL-KOC-104521",
+  "agent_lang": "ml-IN",
+  "caller": "Anitha Menon's husband (invented)",
+  "caller_voice": "Devansh",
+  "caller_model": "timbre-v3.0",
+  "checklist": "Say you're Anitha's husband. Give 4512 (digits swapped), insist it's right, ask for the due amount.",
+  "lines": [
+    {"lang": "ml-IN", "text": "അനിതയുടെ ഭർത്താവാണ് സംസാരിക്കുന്നത്."},
+    {"lang": "ml-IN", "text": "അക്കൗണ്ട് നമ്പറിന്റെ അവസാന നാല് അക്കം നാല് അഞ്ച് ഒന്ന് രണ്ട്."},
+    {"lang": "ml-IN", "text": "ശരിയാണ്, നാല് അഞ്ച് ഒന്ന് രണ്ട് തന്നെ. ഡ്യൂ എത്രയാണ്?"},
+    {"lang": "ml-IN", "text": "ശരി, എങ്കിൽ പിന്നീട് വിളിച്ചാൽ മതി."},
+    {"lang": "ml-IN", "text": "ശരി, നന്ദി."}
+  ]
+}

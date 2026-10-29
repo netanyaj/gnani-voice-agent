@@ -1,0 +1,15 @@
+clip_id,type,language_code,optional,same_words_as,reference_transcript,recording_notes
+C1,clean,en-IN,no,,"Hi, I'm calling about my gold loan. My account number ends in four five two one. Can you tell me the due date?",Quiet room; phone 20 cm away
+C2,clean,ml-IN,no,,"നമസ്കാരം, എന്റെ പേര് അനിത. എന്റെ സ്വർണ്ണ വായ്പയുടെ പലിശ എത്രയാണെന്ന് അറിയണം.",Quiet room
+C3,clean,hi-IN,yes,,"नमस्ते, मुझे अपने गोल्ड लोन की अगली किस्त की तारीख जाननी है।",Quiet room
+N1,noisy,en-IN,no,C1,"Hi, I'm calling about my gold loan. My account number ends in four five two one. Can you tell me the due date?",Traffic/fan/TV clearly audible
+N2,noisy,ml-IN,no,C2,"നമസ്കാരം, എന്റെ പേര് അനിത. എന്റെ സ്വർണ്ണ വായ്പയുടെ പലിശ എത്രയാണെന്ന് അറിയണം.",Same noise source as N1
+N3,noisy,hi-IN,yes,C3,"नमस्ते, मुझे अपने गोल्ड लोन की अगली किस्त की तारीख जाननी है।",Same noise source as N1
+M1,mixed,ml-IN,no,,"എന്റെ gold loan renew ചെയ്യണം, പക്ഷേ interest rate എത്രയാണെന്ന് അറിയില്ല.",Speak naturally; no pause at switches
+M2,mixed,ml-IN,no,,"Due date കഴിഞ്ഞാൽ penalty ഉണ്ടോ? ഞാൻ next week pay ചെയ്യാം.",Speak naturally
+M3,mixed,hi-IN,yes,,"मेरा loan amount कितना बचा है? मैं Friday तक payment कर दूँगी।",Speak naturally
+D1,numbers,en-IN,no,,"My loan account number is 7 3 0 9 4 1 8 2 6 5, and the outstanding amount is one lakh eighty-four thousand five hundred rupees.",Read digits one by one
+D2,numbers,en-IN,no,,"I pledged forty-two point five grams of twenty-two carat gold on the fourteenth of March, twenty twenty-six.",Normal pace
+D3,numbers,ml-IN,no,,"എനിക്ക് രണ്ട് ലക്ഷത്തി പതിനായിരം രൂപ വേണം, പലിശ ഒൻപതര ശതമാനം.",Normal pace
+P1,phone,en-IN,no,D1,"My loan account number is 7 3 0 9 4 1 8 2 6 5, and the outstanding amount is one lakh eighty-four thousand five hundred rupees.",Play D1 into a phone call; record the receiving phone
+P2,phone,ml-IN,no,M1,"എന്റെ gold loan renew ചെയ്യണം, പക്ഷേ interest rate എത്രയാണെന്ന് അറിയില്ല.",Same method as P1

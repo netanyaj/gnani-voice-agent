@@ -1,0 +1,6 @@
+account_number,account_last4,customer_name,language,gold_grams_22k,gold_value_inr,loan_amount_inr,interest_rate_pa,disbursed_on,due_date,interest_accrued_inr_as_of_2026_10_24,total_due_on_due_date_inr,days_overdue,penal_interest_inr_as_of_2026_10_24,test_scenario
+GL-KOC-104521,4521,Anitha Menon,Malayalam,18.0,243000,185000,10.5,2026-04-20,2026-10-28,9952,195165,0,0,Renewal due in 4 days; cooperative caller who renews
+GL-KOC-118734,8734,Rahul Nair,Malayalam-English,24.0,324000,250000,10.9,2026-03-10,2026-10-14,17022,266275,10,137,10 days overdue; asks about the penalty
+GL-TCR-120956,0956,Fathima K,Malayalam,12.5,168750,120000,11.5,2026-06-02,2026-11-30,5444,126843,0,0,Wants to part-pay 50000 now
+GL-EKM-131408,1408,Suresh Kumar,English,36.0,486000,380000,9.9,2026-05-15,2026-11-15,16697,398965,0,0,Asks for a top-up; agent must not promise an amount
+GL-KOC-142290,2290,Priya Sharma,Hindi,20.0,270000,200000,10.5,2026-07-01,2026-12-31,6616,210529,0,0,Someone else answers; verification must fail

@@ -1,0 +1,38 @@
+[
+  {
+    "clip_id": "C1",
+    "type": "clean",
+    "language_code": "en-IN",
+    "format": "verbatim",
+    "model": "saaras:v4",
+    "http_status": 200,
+    "rtt_ms": 1388,
+    "audio_s": 7.45,
+    "transcript": "Hi I am calling about my gold loan my account number ends in four five two one can you tell me the due date",
+    "detected_language": "en-IN",
+    "request_id": "20261026_76c96a28-baaa-4585-aaf3-5fbbce07d1d5",
+    "error": "",
+    "raw_body": {
+      "request_id": "20261026_76c96a28-baaa-4585-aaf3-5fbbce07d1d5",
+      "transcript": "Hi I am calling about my gold loan my account number ends in four five two one can you tell me the due date",
+      "language_code": "en-IN"
+    },
+    "headers": {
+      "Date": "Mon, 26 Oct 2026 17:57:56 GMT",
+      "Content-Type": "application/json",
+      "Content-Length": "209",
+      "Connection": "keep-alive",
+      "server": "uvicorn",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "permissions-policy": "geolocation=(), camera=(), microphone=(), payment=()",
+      "cache-control": "no-store, no-cache, must-revalidate",
+      "pragma": "no-cache",
+      "expires": "0",
+      "x-request-id": "20261026_76c96a28-baaa-4585-aaf3-5fbbce07d1d5",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+      "Content-Security-Policy": "default-src 'none'; frame-ancestors 'none'",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "DENY"
+    }
+  }
+]

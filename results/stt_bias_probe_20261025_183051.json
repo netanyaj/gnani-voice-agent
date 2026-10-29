@@ -1,0 +1,134 @@
+[
+  {
+    "case": "english only",
+    "lang": "ml-IN",
+    "sent": 10,
+    "connected": {
+      "type": "connected",
+      "message": "STT service ready — VAD service connected",
+      "request_id": "01a17326-2f3b-7ff6-8fc2-1e0f03c97ef4",
+      "config": {
+        "sample_rate": 16000,
+        "chunk_size": 512,
+        "partials_enabled": false,
+        "partial_interval_ms": 450,
+        "partial_max_window_s": 15.0,
+        "language_code": "ml-IN",
+        "format": "verbatim"
+      },
+      "timestamp": "2026-10-25T13:00:44.805232+00:00"
+    },
+    "update_reply": {
+      "type": "settings_updated",
+      "config": {
+        "partials_enabled": false,
+        "language_code": "ml-IN",
+        "format": "verbatim",
+        "itn_native_numerals": false,
+        "substitution_enabled": false,
+        "bias_word_count": 10,
+        "bias_score": 1.0
+      },
+      "timestamp": "2026-10-25T13:00:44.931084+00:00"
+    }
+  },
+  {
+    "case": "malayalam only",
+    "lang": "ml-IN",
+    "sent": 8,
+    "connected": {
+      "type": "connected",
+      "message": "STT service ready — VAD service connected",
+      "request_id": "01a17326-3665-71b0-9514-1e4b5065db6d",
+      "config": {
+        "sample_rate": 16000,
+        "chunk_size": 512,
+        "partials_enabled": false,
+        "partial_interval_ms": 450,
+        "partial_max_window_s": 15.0,
+        "language_code": "ml-IN",
+        "format": "verbatim"
+      },
+      "timestamp": "2026-10-25T13:00:46.648328+00:00"
+    },
+    "update_reply": {
+      "type": "settings_updated",
+      "config": {
+        "partials_enabled": false,
+        "language_code": "ml-IN",
+        "format": "verbatim",
+        "itn_native_numerals": false,
+        "substitution_enabled": false,
+        "bias_word_count": 8,
+        "bias_score": 1.0
+      },
+      "timestamp": "2026-10-25T13:00:46.754694+00:00"
+    }
+  },
+  {
+    "case": "both (agent list)",
+    "lang": "ml-IN",
+    "sent": 18,
+    "connected": {
+      "type": "connected",
+      "message": "STT service ready — VAD service connected",
+      "request_id": "01a17326-3db4-7ffa-95d2-a87be3bc3c62",
+      "config": {
+        "sample_rate": 16000,
+        "chunk_size": 512,
+        "partials_enabled": false,
+        "partial_interval_ms": 450,
+        "partial_max_window_s": 15.0,
+        "language_code": "ml-IN",
+        "format": "verbatim"
+      },
+      "timestamp": "2026-10-25T13:00:48.510522+00:00"
+    },
+    "update_reply": {
+      "type": "settings_updated",
+      "config": {
+        "partials_enabled": false,
+        "language_code": "ml-IN",
+        "format": "verbatim",
+        "itn_native_numerals": false,
+        "substitution_enabled": false,
+        "bias_word_count": 18,
+        "bias_score": 1.0
+      },
+      "timestamp": "2026-10-25T13:00:48.625585+00:00"
+    }
+  },
+  {
+    "case": "english + min-silence 400",
+    "connected": {
+      "connected": {
+        "type": "connected",
+        "message": "STT service ready — VAD service connected",
+        "request_id": "01a17326-4475-7993-8fc8-8711521b40da",
+        "config": {
+          "sample_rate": 16000,
+          "chunk_size": 512,
+          "partials_enabled": false,
+          "partial_interval_ms": 450,
+          "partial_max_window_s": 15.0,
+          "language_code": "ml-IN",
+          "format": "verbatim"
+        },
+        "timestamp": "2026-10-25T13:00:50.267730+00:00"
+      },
+      "update_reply": {
+        "type": "settings_updated",
+        "config": {
+          "partials_enabled": false,
+          "language_code": "ml-IN",
+          "format": "verbatim",
+          "itn_native_numerals": false,
+          "substitution_enabled": false,
+          "bias_word_count": 10,
+          "bias_score": 1.0
+        },
+        "timestamp": "2026-10-25T13:00:50.398984+00:00"
+      }
+    }
+  }
+]

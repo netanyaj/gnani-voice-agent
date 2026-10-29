@@ -1,0 +1,7 @@
+clip_id,expected_values,meaning
+C1,4521,account last 4
+N1,4521,account last 4
+D1,7309418265;184500,account number; outstanding amount
+P1,7309418265;184500,account number; outstanding amount
+D2,42.5;22;14-03-2026,grams; carat; date
+D3,210000;9.5,amount; interest percent

@@ -1,0 +1,188 @@
+{
+  "script": {
+    "EN": "Your gold loan GL-KOC-104521 of Rs 1,85,000 is due on 28 October 2026. The total payable is Rs 1,95,165, including interest of Rs 10,165 at 10.5% a year. Your pledged gold weighs 18.0 grams. Quote reference PLC-2291-XB when you renew.",
+    "ML-EN": "അനിത, നിങ്ങളുടെ gold loan GL-KOC-104521-ന്റെ due date 28 October 2026 ആണ്. ആകെ അടയ്ക്കേണ്ടത് Rs 1,95,165."
+  },
+  "rest": [
+    {
+      "model": "bulbul:v3",
+      "tag": "EN",
+      "speaker": "ishita",
+      "language_code": "en-IN",
+      "chars": 234,
+      "http_status": 200,
+      "rtt_ms": 6073,
+      "headers": {
+        "Date": "Mon, 26 Oct 2026 18:09:39 GMT",
+        "Content-Type": "application/json",
+        "Content-Length": "1562332",
+        "Connection": "keep-alive",
+        "server": "uvicorn",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "permissions-policy": "geolocation=(), camera=(), microphone=(), payment=()",
+        "cache-control": "no-store, no-cache, must-revalidate",
+        "pragma": "no-cache",
+        "expires": "0",
+        "x-request-id": "20261026_e296684b-4089-4418-992b-0a22870a6251",
+        "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+        "Content-Security-Policy": "default-src 'none'; frame-ancestors 'none'",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY"
+      },
+      "file": "results/tts_sarvam/20261026_233936_bulbul-v3_EN_ishita.wav",
+      "audio_s": 26.57,
+      "request_id": "20261026_e296684b-4089-4418-992b-0a22870a6251"
+    },
+    {
+      "model": "bulbul:v3",
+      "tag": "ML-EN",
+      "speaker": "pooja",
+      "language_code": "ml-IN",
+      "chars": 105,
+      "http_status": 200,
+      "rtt_ms": 5396,
+      "headers": {
+        "Date": "Mon, 26 Oct 2026 18:09:45 GMT",
+        "Content-Type": "application/json",
+        "Content-Length": "818004",
+        "Connection": "keep-alive",
+        "server": "uvicorn",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "permissions-policy": "geolocation=(), camera=(), microphone=(), payment=()",
+        "cache-control": "no-store, no-cache, must-revalidate",
+        "pragma": "no-cache",
+        "expires": "0",
+        "x-request-id": "20261026_33c424ff-2cea-41ff-a690-861b01fbdd25",
+        "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+        "Content-Security-Policy": "default-src 'none'; frame-ancestors 'none'",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY"
+      },
+      "file": "results/tts_sarvam/20261026_233936_bulbul-v3_ML-EN_pooja.wav",
+      "audio_s": 13.91,
+      "request_id": "20261026_33c424ff-2cea-41ff-a690-861b01fbdd25"
+    },
+    {
+      "model": "bulbul:v4-flash",
+      "tag": "EN",
+      "speaker": "simran_en_customer",
+      "language_code": "en-IN",
+      "chars": 234,
+      "http_status": 200,
+      "rtt_ms": 7135,
+      "headers": {
+        "Date": "Mon, 26 Oct 2026 18:09:50 GMT",
+        "Content-Type": "application/json",
+        "Content-Length": "1912312",
+        "Connection": "keep-alive",
+        "server": "uvicorn",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "permissions-policy": "geolocation=(), camera=(), microphone=(), payment=()",
+        "cache-control": "no-store, no-cache, must-revalidate",
+        "pragma": "no-cache",
+        "expires": "0",
+        "x-request-id": "20261026_1c7cfc8f-1fcf-4f89-b931-e21db193085c",
+        "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+        "Content-Security-Policy": "default-src 'none'; frame-ancestors 'none'",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY"
+      },
+      "file": "results/tts_sarvam/20261026_233936_bulbul-v4-flash_EN_simran_en_customer.wav",
+      "audio_s": 32.52,
+      "request_id": "20261026_1c7cfc8f-1fcf-4f89-b931-e21db193085c"
+    }
+  ],
+  "stream": [
+    {
+      "http_status": 200,
+      "content_type": "audio/pcm",
+      "first_audio_ms": 449,
+      "full_ms": 53323,
+      "bytes": 1295834,
+      "chunks": 47,
+      "file": "results/tts_sarvam/20261026_233936_stream_bulbul-v3_EN_ishita.wav",
+      "audio_s": 29.38
+    },
+    {
+      "http_status": 200,
+      "content_type": "audio/pcm",
+      "first_audio_ms": 564,
+      "full_ms": 6016,
+      "bytes": 1295834,
+      "chunks": 100,
+      "audio_s": 29.38
+    },
+    {
+      "http_status": 200,
+      "content_type": "audio/pcm",
+      "first_audio_ms": 634,
+      "full_ms": 6081,
+      "bytes": 1269492,
+      "chunks": 100,
+      "audio_s": 28.79
+    },
+    {
+      "http_status": 200,
+      "content_type": "audio/pcm",
+      "first_audio_ms": 674,
+      "full_ms": 5794,
+      "bytes": 1239386,
+      "chunks": 87,
+      "audio_s": 28.1
+    },
+    {
+      "http_status": 200,
+      "content_type": "audio/pcm",
+      "first_audio_ms": 446,
+      "full_ms": 6140,
+      "bytes": 1348520,
+      "chunks": 96,
+      "audio_s": 30.58
+    },
+    {
+      "http_status": 200,
+      "content_type": "audio/pcm",
+      "first_audio_ms": 447,
+      "full_ms": 5870,
+      "bytes": 1269492,
+      "chunks": 92,
+      "audio_s": 28.79
+    },
+    {
+      "http_status": 200,
+      "content_type": "audio/pcm",
+      "first_audio_ms": 804,
+      "full_ms": 6037,
+      "bytes": 1254440,
+      "chunks": 93,
+      "audio_s": 28.45
+    },
+    {
+      "http_status": 200,
+      "content_type": "audio/pcm",
+      "first_audio_ms": 537,
+      "full_ms": 5947,
+      "bytes": 1303360,
+      "chunks": 76,
+      "audio_s": 29.55
+    },
+    {
+      "http_status": 200,
+      "content_type": "audio/pcm",
+      "first_audio_ms": 578,
+      "full_ms": 6318,
+      "bytes": 1280782,
+      "chunks": 88,
+      "audio_s": 29.04
+    },
+    {
+      "http_status": 200,
+      "content_type": "audio/pcm",
+      "first_audio_ms": 699,
+      "full_ms": 6130,
+      "bytes": 1280782,
+      "chunks": 101,
+      "audio_s": 29.04
+    }
+  ]
+}

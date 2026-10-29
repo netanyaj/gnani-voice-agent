@@ -1,0 +1,31 @@
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Python / OS
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# My own voice: recordings, 16 kHz copies, clone reference, clone embedding and clone output
+audio/
+results/audio_16k/
+results/voice_clone_embedding_*
+results/tts/*myvoice*
+*voice_ref*
+
+# Screenshots of the Gnani dashboard (show my name, email and account)
+results/creator_studio/*.jpg
+results/creator_studio/*.png
+results/creator_studio/*.gif
+
+# Working prompts and one-off key test
+PROMPT_*.md
+gnani_platform_key_test.sh
+
+# Personal working notes for Claude Code (kept local)
+CLAUDE.md

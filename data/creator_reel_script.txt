@@ -1,0 +1,14 @@
+Reel: "Gold loan in 60 seconds" (invented brand: KochiGold)
+
+EN:
+[excited] Need cash this week without selling your gold? Here's how a gold loan works in sixty seconds.
+Bring 20 grams of 22-carat jewellery, and you could borrow up to Rs 2,29,500 at 10.5% a year.
+[whisper] Pro tip: always ask for the total payable, not just the interest rate.
+
+ML:
+സ്വർണ്ണം വിൽക്കാതെ ഈ ആഴ്ച പണം വേണോ? ഗോൾഡ് ലോൺ എങ്ങനെ പ്രവർത്തിക്കുന്നു എന്ന് അറുപത് സെക്കൻഡിൽ നോക്കാം.
+[laugh] പലിശ നിരക്ക് മാത്രമല്ല, ആകെ അടയ്ക്കേണ്ട തുകയും ചോദിക്കണം!
+
+Notes:
+- Tags in [brackets] are placeholders. Use whatever expression tags the studio actually offers; record which exist.
+- Rs 2,29,500 = 85% of 20 g x Rs 13,500/g (2026 RBI tier). Numbers are invented for testing.

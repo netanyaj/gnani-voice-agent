@@ -1,0 +1,17 @@
+{
+  "label": "T08-R",
+  "customer": "GL-TCR-120956",
+  "agent_lang": "ml-IN",
+  "caller": "Fathima K (invented)",
+  "caller_voice": "Chetana",
+  "caller_model": "timbre-v3.0",
+  "checklist": "Start in English, give 0956, ask what's due; switch to Malayalam for a part-payment of Rs 50,000 this Saturday; thank and end.",
+  "lines": [
+    {"lang": "en-IN", "text": "Yes, this is Fathima speaking."},
+    {"lang": "en-IN", "text": "The last four digits are zero nine five six."},
+    {"lang": "en-IN", "text": "Sorry, how much do I have to pay in total?"},
+    {"lang": "ml-IN", "text": "ശരി. എനിക്ക് ഈ ശനിയാഴ്ച അമ്പതിനായിരം രൂപ പാർട്ട് പേയ്മെന്റ് ആയി അടയ്ക്കണം."},
+    {"lang": "ml-IN", "text": "അതെ, അത് മതി."},
+    {"lang": "ml-IN", "text": "ശരി, നന്ദി. വേറൊന്നും ഇല്ല."}
+  ]
+}

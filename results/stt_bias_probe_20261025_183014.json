@@ -1,0 +1,80 @@
+[
+  {
+    "case": "english only",
+    "lang": "ml-IN",
+    "sent": 10,
+    "connected": {
+      "type": "connected",
+      "message": "STT service ready — VAD service connected",
+      "request_id": "01a17325-a05f-7782-a4c3-cc32a3081bfd",
+      "config": {
+        "sample_rate": 16000,
+        "chunk_size": 512,
+        "partials_enabled": false,
+        "partial_interval_ms": 450,
+        "partial_max_window_s": 15.0,
+        "language_code": "ml-IN",
+        "format": "verbatim"
+      },
+      "timestamp": "2026-10-25T13:00:08.251479+00:00"
+    }
+  },
+  {
+    "case": "malayalam only",
+    "lang": "ml-IN",
+    "sent": 8,
+    "connected": {
+      "type": "connected",
+      "message": "STT service ready — VAD service connected",
+      "request_id": "01a17325-a71d-73a9-9052-a998e5905a08",
+      "config": {
+        "sample_rate": 16000,
+        "chunk_size": 512,
+        "partials_enabled": false,
+        "partial_interval_ms": 450,
+        "partial_max_window_s": 15.0,
+        "language_code": "ml-IN",
+        "format": "verbatim"
+      },
+      "timestamp": "2026-10-25T13:00:09.959650+00:00"
+    }
+  },
+  {
+    "case": "both (agent list)",
+    "lang": "ml-IN",
+    "sent": 18,
+    "connected": {
+      "type": "connected",
+      "message": "STT service ready — VAD service connected",
+      "request_id": "01a17325-ad36-7244-a8ae-f9ec28244ed7",
+      "config": {
+        "sample_rate": 16000,
+        "chunk_size": 512,
+        "partials_enabled": false,
+        "partial_interval_ms": 450,
+        "partial_max_window_s": 15.0,
+        "language_code": "ml-IN",
+        "format": "verbatim"
+      },
+      "timestamp": "2026-10-25T13:00:11.535703+00:00"
+    }
+  },
+  {
+    "case": "english + min-silence 400",
+    "connected": {
+      "type": "connected",
+      "message": "STT service ready — VAD service connected",
+      "request_id": "01a17325-b369-75be-91d3-77f72462dce7",
+      "config": {
+        "sample_rate": 16000,
+        "chunk_size": 512,
+        "partials_enabled": false,
+        "partial_interval_ms": 450,
+        "partial_max_window_s": 15.0,
+        "language_code": "ml-IN",
+        "format": "verbatim"
+      },
+      "timestamp": "2026-10-25T13:00:13.113618+00:00"
+    }
+  }
+]

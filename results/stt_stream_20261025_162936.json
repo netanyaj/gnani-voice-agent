@@ -1,0 +1,1559 @@
+[
+  {
+    "clip_id": "C1",
+    "type": "clean",
+    "language_code": "en-IN",
+    "run": 1,
+    "audio_s": 7.445,
+    "speech_end_s_est": 6.72,
+    "trailing_silence_s_est": 0.725,
+    "connect_ms": 524,
+    "delay_file_ms": 395,
+    "delay_speech_ms": 1120,
+    "server_latency_ms_last": 250,
+    "segments": 1,
+    "arrived_after_padding": 0,
+    "text": "hi i'm calling about my gold loan my account number ends in 4521 can you tell me the due date",
+    "error": "",
+    "detail": {
+      "connect_ms": 524,
+      "segments": 1,
+      "text": "hi i'm calling about my gold loan my account number ends in 4521 can you tell me the due date",
+      "final_arrival_s_after_end": 0.39484650013037026,
+      "first_processing_s_after_end": null,
+      "server_latency_ms": [
+        250
+      ],
+      "segment_audio_ms": [
+        7124.0
+      ],
+      "arrived_after_padding": 0,
+      "errors": [],
+      "connected_msg": {
+        "type": "connected",
+        "message": "STT service ready — VAD service connected",
+        "request_id": "01a172b0-0c5c-7753-96b7-c0bad1504be8",
+        "config": {
+          "sample_rate": 16000,
+          "chunk_size": 512,
+          "partials_enabled": false,
+          "partial_interval_ms": 450,
+          "partial_max_window_s": 15.0,
+          "language_code": "en-IN",
+          "format": "verbatim"
+        },
+        "timestamp": "2026-10-25T10:51:42.640082+00:00"
+      }
+    }
+  },
+  {
+    "clip_id": "C1",
+    "type": "clean",
+    "language_code": "en-IN",
+    "run": 2,
+    "audio_s": 7.445,
+    "speech_end_s_est": 6.72,
+    "trailing_silence_s_est": 0.725,
+    "connect_ms": 473,
+    "delay_file_ms": 387,
+    "delay_speech_ms": 1112,
+    "server_latency_ms_last": 200,
+    "segments": 1,
+    "arrived_after_padding": 0,
+    "text": "hi i'm calling about my gold loan my account number ends in 4521 can you tell me the due date",
+    "error": "",
+    "detail": {
+      "connect_ms": 473,
+      "segments": 1,
+      "text": "hi i'm calling about my gold loan my account number ends in 4521 can you tell me the due date",
+      "final_arrival_s_after_end": 0.3871011668816209,
+      "first_processing_s_after_end": null,
+      "server_latency_ms": [
+        200
+      ],
+      "segment_audio_ms": [
+        7124.0
+      ],
+      "arrived_after_padding": 0,
+      "errors": [],
+      "connected_msg": {
+        "type": "connected",
+        "message": "STT service ready — VAD service connected",
+        "request_id": "01a172b0-4364-7143-949b-4a9b3004c5b7",
+        "config": {
+          "sample_rate": 16000,
+          "chunk_size": 512,
+          "partials_enabled": false,
+          "partial_interval_ms": 450,
+          "partial_max_window_s": 15.0,
+          "language_code": "en-IN",
+          "format": "verbatim"
+        },
+        "timestamp": "2026-10-25T10:51:56.730438+00:00"
+      }
+    }
+  },
+  {
+    "clip_id": "C1",
+    "type": "clean",
+    "language_code": "en-IN",
+    "run": 3,
+    "audio_s": 7.445,
+    "speech_end_s_est": 6.72,
+    "trailing_silence_s_est": 0.725,
+    "connect_ms": 433,
+    "delay_file_ms": 407,
+    "delay_speech_ms": 1132,
+    "server_latency_ms_last": 264,
+    "segments": 1,
+    "arrived_after_padding": 0,
+    "text": "hi i'm calling about my gold loan my account number ends in 4521 can you tell me the due date",
+    "error": "",
+    "detail": {
+      "connect_ms": 433,
+      "segments": 1,
+      "text": "hi i'm calling about my gold loan my account number ends in 4521 can you tell me the due date",
+      "final_arrival_s_after_end": 0.4067635841201991,
+      "first_processing_s_after_end": null,
+      "server_latency_ms": [
+        264
+      ],
+      "segment_audio_ms": [
+        7124.0
+      ],
+      "arrived_after_padding": 0,
+      "errors": [],
+      "connected_msg": {
+        "type": "connected",
+        "message": "STT service ready — VAD service connected",
+        "request_id": "01a172b0-7a10-7d10-b48c-f9687b9591cf",
+        "config": {
+          "sample_rate": 16000,
+          "chunk_size": 512,
+          "partials_enabled": false,
+          "partial_interval_ms": 450,
+          "partial_max_window_s": 15.0,
+          "language_code": "en-IN",
+          "format": "verbatim"
+        },
+        "timestamp": "2026-10-25T10:52:10.715835+00:00"
+      }
+    }
+  },
+  {
+    "clip_id": "C2",
+    "type": "clean",
+    "language_code": "ml-IN",
+    "run": 1,
+    "audio_s": 5.525,
+    "speech_end_s_est": 4.896,
+    "trailing_silence_s_est": 0.629,
+    "connect_ms": 687,
+    "delay_file_ms": 980,
+    "delay_speech_ms": 1610,
+    "server_latency_ms_last": 268,
+    "segments": 1,
+    "arrived_after_padding": 0,
+    "text": "നമസ്കാരം എൻ്റെ പേര് അനിത എൻ്റെ സ്വർണ്ണ വായ്പയുടെ പലിശ എത്രയാണെന്നറിയണം",
+    "error": "",
+    "detail": {
+      "connect_ms": 687,
+      "segments": 1,
+      "text": "നമസ്കാരം എൻ്റെ പേര് അനിത എൻ്റെ സ്വർണ്ണ വായ്പയുടെ പലിശ എത്രയാണെന്നറിയണം",
+      "final_arrival_s_after_end": 0.9803272918798029,
+      "first_processing_s_after_end": null,
+      "server_latency_ms": [
+        268
+      ],
+      "segment_audio_ms": [
+        5524.0
+      ],
+      "arrived_after_padding": 0,
+      "errors": [],
+      "connected_msg": {
+        "type": "connected",
+        "message": "STT service ready — VAD service connected",
+        "request_id": "01a172b0-b1a3-7735-b27d-35d2935d743b",
+        "config": {
+          "sample_rate": 16000,
+          "chunk_size": 512,
+          "partials_enabled": false,
+          "partial_interval_ms": 450,
+          "partial_max_window_s": 15.0,
+          "language_code": "ml-IN",
+          "format": "verbatim"
+        },
+        "timestamp": "2026-10-25T10:52:25.005819+00:00"
+      }
+    }
+  },
+  {
+    "clip_id": "C2",
+    "type": "clean",
+    "language_code": "ml-IN",
+    "run": 2,
+    "audio_s": 5.525,
+    "speech_end_s_est": 4.896,
+    "trailing_silence_s_est": 0.629,
+    "connect_ms": 2689,
+    "delay_file_ms": 438,
+    "delay_speech_ms": 1067,
+    "server_latency_ms_last": 149,
+    "segments": 1,
+    "arrived_after_padding": 0,
+    "text": "നമസ്കാരം എൻ്റെ പേര് അനിത എൻ്റെ സ്വർണ്ണ വായ്പയുടെ പലിശ എത്രയാണെന്നറിയണം",
+    "error": "",
+    "detail": {
+      "connect_ms": 2689,
+      "segments": 1,
+      "text": "നമസ്കാരം എൻ്റെ പേര് അനിത എൻ്റെ സ്വർണ്ണ വായ്പയുടെ പലിശ എത്രയാണെന്നറിയണം",
+      "final_arrival_s_after_end": 0.4379998748190701,
+      "first_processing_s_after_end": null,
+      "server_latency_ms": [
+        149
+      ],
+      "segment_audio_ms": [
+        5524.0
+      ],
+      "arrived_after_padding": 0,
+      "errors": [],
+      "connected_msg": {
+        "type": "connected",
+        "message": "STT service ready — VAD service connected",
+        "request_id": "01a172b0-eae5-7f63-b161-d38684c14f14",
+        "config": {
+          "sample_rate": 16000,
+          "chunk_size": 512,
+          "partials_enabled": false,
+          "partial_interval_ms": 450,
+          "partial_max_window_s": 15.0,
+          "language_code": "ml-IN",
+          "format": "verbatim"
+        },
+        "timestamp": "2026-10-25T10:52:39.617079+00:00"
+      }
+    }
+  },
+  {
+    "clip_id": "C2",
+    "type": "clean",
+    "language_code": "ml-IN",
+    "run": 3,
+    "audio_s": 5.525,
+    "speech_end_s_est": 4.896,
+    "trailing_silence_s_est": 0.629,
+    "connect_ms": 646,
+    "delay_file_ms": 467,
+    "delay_speech_ms": 1096,
+    "server_latency_ms_last": 139,
+    "segments": 1,
+    "arrived_after_padding": 0,
+    "text": "നമസ്കാരം എൻ്റെ പേര് അനിത എൻ്റെ സ്വർണ്ണ വായ്പയുടെ പലിശ എത്രയാണെന്നറിയണം",
+    "error": "",
+    "detail": {
+      "connect_ms": 646,
+      "segments": 1,
+      "text": "നമസ്കാരം എൻ്റെ പേര് അനിത എൻ്റെ സ്വർണ്ണ വായ്പയുടെ പലിശ എത്രയാണെന്നറിയണം",
+      "final_arrival_s_after_end": 0.46650133398361504,
+      "first_processing_s_after_end": null,
+      "server_latency_ms": [
+        139
+      ],
+      "segment_audio_ms": [
+        5524.0
+      ],
+      "arrived_after_padding": 0,
+      "errors": [],
+      "connected_msg": {
+        "type": "connected",
+        "message": "STT service ready — VAD service connected",
+        "request_id": "01a172b1-1a84-7c63-968e-5ae7c1caabe7",
+        "config": {
+          "sample_rate": 16000,
+          "chunk_size": 512,
+          "partials_enabled": false,
+          "partial_interval_ms": 450,
+          "partial_max_window_s": 15.0,
+          "language_code": "ml-IN",
+          "format": "verbatim"
+        },
+        "timestamp": "2026-10-25T10:52:51.799952+00:00"
+      }
+    }
+  },
+  {
+    "clip_id": "N1",
+    "type": "noisy",
+    "language_code": "en-IN",
+    "run": 1,
+    "audio_s": 7.701,
+    "speech_end_s_est": 6.624,
+    "trailing_silence_s_est": 1.077,
+    "connect_ms": 555,
+    "delay_file_ms": 88,
+    "delay_speech_ms": 1166,
+    "server_latency_ms_last": 241,
+    "segments": 1,
+    "arrived_after_padding": 0,
+    "text": "hi i'm calling about my gold loan my account number ends in 4521 can you tell me the due date",
+    "error": "",
+    "detail": {
+      "connect_ms": 555,
+      "segments": 1,
+      "text": "hi i'm calling about my gold loan my account number ends in 4521 can you tell me the due date",
+      "final_arrival_s_after_end": 0.08846199978142977,
+      "first_processing_s_after_end": null,
+      "server_latency_ms": [
+        241
+      ],
+      "segment_audio_ms": [
+        7220.0
+      ],
+      "arrived_after_padding": 0,
+      "errors": [],
+      "connected_msg": {
+        "type": "connected",
+        "message": "STT service ready — VAD service connected",
+        "request_id": "01a172b1-4b38-78fd-b772-0f9a60cdc41f",
+        "config": {
+          "sample_rate": 16000,
+          "chunk_size": 512,
+          "partials_enabled": false,
+          "partial_interval_ms": 450,
+          "partial_max_window_s": 15.0,
+          "language_code": "en-IN",
+          "format": "verbatim"
+        },
+        "timestamp": "2026-10-25T10:53:04.259840+00:00"
+      }
+    }
+  },
+  {
+    "clip_id": "N1",
+    "type": "noisy",
+    "language_code": "en-IN",
+    "run": 2,
+    "audio_s": 7.701,
+    "speech_end_s_est": 6.624,
+    "trailing_silence_s_est": 1.077,
+    "connect_ms": 497,
+    "delay_file_ms": -8,
+    "delay_speech_ms": 1070,
+    "server_latency_ms_last": 158,
+    "segments": 1,
+    "arrived_after_padding": 0,
+    "text": "hi i'm calling about my gold loan my account number ends in 4521 can you tell me the due date",
+    "error": "",
+    "detail": {
+      "connect_ms": 497,
+      "segments": 1,
+      "text": "hi i'm calling about my gold loan my account number ends in 4521 can you tell me the due date",
+      "final_arrival_s_after_end": -0.007809417089447379,
+      "first_processing_s_after_end": null,
+      "server_latency_ms": [
+        158
+      ],
+      "segment_audio_ms": [
+        7220.0
+      ],
+      "arrived_after_padding": 0,
+      "errors": [],
+      "connected_msg": {
+        "type": "connected",
+        "message": "STT service ready — VAD service connected",
+        "request_id": "01a172b1-8345-736a-81c5-756acf1c7cef",
+        "config": {
+          "sample_rate": 16000,
+          "chunk_size": 512,
+          "partials_enabled": false,
+          "partial_interval_ms": 450,
+          "partial_max_window_s": 15.0,
+          "language_code": "en-IN",
+          "format": "verbatim"
+        },
+        "timestamp": "2026-10-25T10:53:18.618138+00:00"
+      }
+    }
+  },
+  {
+    "clip_id": "N1",
+    "type": "noisy",
+    "language_code": "en-IN",
+    "run": 3,
+    "audio_s": 7.701,
+    "speech_end_s_est": 6.624,
+    "trailing_silence_s_est": 1.077,
+    "connect_ms": 528,
+    "delay_file_ms": 49,
+    "delay_speech_ms": 1127,
+    "server_latency_ms_last": 253,
+    "segments": 1,
+    "arrived_after_padding": 0,
+    "text": "hi i'm calling about my gold loan my account number ends in 4521 can you tell me the due date",
+    "error": "",
+    "detail": {
+      "connect_ms": 528,
+      "segments": 1,
+      "text": "hi i'm calling about my gold loan my account number ends in 4521 can you tell me the due date",
+      "final_arrival_s_after_end": 0.04934858391061425,
+      "first_processing_s_after_end": null,
+      "server_latency_ms": [
+        253
+      ],
+      "segment_audio_ms": [
+        7220.0
+      ],
+      "arrived_after_padding": 0,
+      "errors": [],
+      "connected_msg": {
+        "type": "connected",
+        "message": "STT service ready — VAD service connected",
+        "request_id": "01a172b1-bb85-7904-9589-059eaf71eff0",
+        "config": {
+          "sample_rate": 16000,
+          "chunk_size": 512,
+          "partials_enabled": false,
+          "partial_interval_ms": 450,
+          "partial_max_window_s": 15.0,
+          "language_code": "en-IN",
+          "format": "verbatim"
+        },
+        "timestamp": "2026-10-25T10:53:33.020259+00:00"
+      }
+    }
+  },
+  {
+    "clip_id": "N2",
+    "type": "noisy",
+    "language_code": "ml-IN",
+    "run": 1,
+    "audio_s": 5.611,
+    "speech_end_s_est": 5.312,
+    "trailing_silence_s_est": 0.299,
+    "connect_ms": 746,
+    "delay_file_ms": 565,
+    "delay_speech_ms": 864,
+    "server_latency_ms_last": 259,
+    "segments": 1,
+    "arrived_after_padding": 0,
+    "text": "നമസ്കാരം എൻ്റെ പേരാണിതാ എൻ്റെ സ്വർണ വായ്പയുടെ പലിശ എത്രയാണെന്നറിയാം",
+    "error": "",
+    "detail": {
+      "connect_ms": 746,
+      "segments": 1,
+      "text": "നമസ്കാരം എൻ്റെ പേരാണിതാ എൻ്റെ സ്വർണ വായ്പയുടെ പലിശ എത്രയാണെന്നറിയാം",
+      "final_arrival_s_after_end": 0.5654803330544382,
+      "first_processing_s_after_end": null,
+      "server_latency_ms": [
+        259
+      ],
+      "segment_audio_ms": [
+        5620.0
+      ],
+      "arrived_after_padding": 0,
+      "errors": [],
+      "connected_msg": {
+        "type": "connected",
+        "message": "STT service ready — VAD service connected",
+        "request_id": "01a172b1-f590-75b0-b8cd-ae8a63a74b97",
+        "config": {
+          "sample_rate": 16000,
+          "chunk_size": 512,
+          "partials_enabled": false,
+          "partial_interval_ms": 450,
+          "partial_max_window_s": 15.0,
+          "language_code": "ml-IN",
+          "format": "verbatim"
+        },
+        "timestamp": "2026-10-25T10:53:47.883667+00:00"
+      }
+    }
+  },
+  {
+    "clip_id": "N2",
+    "type": "noisy",
+    "language_code": "ml-IN",
+    "run": 2,
+    "audio_s": 5.611,
+    "speech_end_s_est": 5.312,
+    "trailing_silence_s_est": 0.299,
+    "connect_ms": 540,
+    "delay_file_ms": 643,
+    "delay_speech_ms": 942,
+    "server_latency_ms_last": 276,
+    "segments": 1,
+    "arrived_after_padding": 0,
+    "text": "നമസ്കാരം എൻ്റെ പേരാണിതാ എൻ്റെ സ്വർണ വായ്പയുടെ പലിശ എത്രയാണെന്നറിയാം",
+    "error": "",
+    "detail": {
+      "connect_ms": 540,
+      "segments": 1,
+      "text": "നമസ്കാരം എൻ്റെ പേരാണിതാ എൻ്റെ സ്വർണ വായ്പയുടെ പലിശ എത്രയാണെന്നറിയാം",
+      "final_arrival_s_after_end": 0.6428581660147756,
+      "first_processing_s_after_end": null,
+      "server_latency_ms": [
+        276
+      ],
+      "segment_audio_ms": [
+        5620.0
+      ],
+      "arrived_after_padding": 0,
+      "errors": [],
+      "connected_msg": {
+        "type": "connected",
+        "message": "STT service ready — VAD service connected",
+        "request_id": "01a172b2-2553-7e5f-be7f-1988c0cec2c6",
+        "config": {
+          "sample_rate": 16000,
+          "chunk_size": 512,
+          "partials_enabled": false,
+          "partial_interval_ms": 450,
+          "partial_max_window_s": 15.0,
+          "language_code": "ml-IN",
+          "format": "verbatim"
+        },
+        "timestamp": "2026-10-25T10:54:00.107438+00:00"
+      }
+    }
+  },
+  {
+    "clip_id": "N2",
+    "type": "noisy",
+    "language_code": "ml-IN",
+    "run": 3,
+    "audio_s": 5.611,
+    "speech_end_s_est": 5.312,
+    "trailing_silence_s_est": 0.299,
+    "connect_ms": 1725,
+    "delay_file_ms": 551,
+    "delay_speech_ms": 850,
+    "server_latency_ms_last": 274,
+    "segments": 1,
+    "arrived_after_padding": 0,
+    "text": "നമസ്കാരം എൻ്റെ പേരാണിതാ എൻ്റെ സ്വർണ വായ്പയുടെ പലിശ എത്രയാണെന്നറിയാം",
+    "error": "",
+    "detail": {
+      "connect_ms": 1725,
+      "segments": 1,
+      "text": "നമസ്കാരം എൻ്റെ പേരാണിതാ എൻ്റെ സ്വർണ വായ്പയുടെ പലിശ എത്രയാണെന്നറിയാം",
+      "final_arrival_s_after_end": 0.5514978752471507,
+      "first_processing_s_after_end": null,
+      "server_latency_ms": [
+        274
+      ],
+      "segment_audio_ms": [
+        5620.0
+      ],
+      "arrived_after_padding": 0,
+      "errors": [],
+      "connected_msg": {
+        "type": "connected",
+        "message": "STT service ready — VAD service connected",
+        "request_id": "01a172b2-5a6e-7f91-afc3-b5938b28146d",
+        "config": {
+          "sample_rate": 16000,
+          "chunk_size": 512,
+          "partials_enabled": false,
+          "partial_interval_ms": 450,
+          "partial_max_window_s": 15.0,
+          "language_code": "ml-IN",
+          "format": "verbatim"
+        },
+        "timestamp": "2026-10-25T10:54:13.694061+00:00"
+      }
+    }
+  },
+  {
+    "clip_id": "M1",
+    "type": "mixed",
+    "language_code": "ml-IN",
+    "run": 1,
+    "audio_s": 4.395,
+    "speech_end_s_est": 4.192,
+    "trailing_silence_s_est": 0.203,
+    "connect_ms": 433,
+    "delay_file_ms": 746,
+    "delay_speech_ms": 949,
+    "server_latency_ms_last": 151,
+    "segments": 1,
+    "arrived_after_padding": 0,
+    "text": "എൻ്റെ ഗോൾഡ് ലോൺ റിന്യൂ ചെയ്യണം പക്ഷേ ഇൻ്ററസ്റ്റ് റേറ്റ് എത്രയാണെന്നറിയില്ല",
+    "error": "",
+    "detail": {
+      "connect_ms": 433,
+      "segments": 1,
+      "text": "എൻ്റെ ഗോൾഡ് ലോൺ റിന്യൂ ചെയ്യണം പക്ഷേ ഇൻ്ററസ്റ്റ് റേറ്റ് എത്രയാണെന്നറിയില്ല",
+      "final_arrival_s_after_end": 0.7460100830066949,
+      "first_processing_s_after_end": null,
+      "server_latency_ms": [
+        151
+      ],
+      "segment_audio_ms": [
+        4896.0
+      ],
+      "arrived_after_padding": 0,
+      "errors": [],
+      "connected_msg": {
+        "type": "connected",
+        "message": "STT service ready — VAD service connected",
+        "request_id": "01a172b2-89df-71f6-85e9-06abb6552458",
+        "config": {
+          "sample_rate": 16000,
+          "chunk_size": 512,
+          "partials_enabled": false,
+          "partial_interval_ms": 450,
+          "partial_max_window_s": 15.0,
+          "language_code": "ml-IN",
+          "format": "verbatim"
+        },
+        "timestamp": "2026-10-25T10:54:25.842568+00:00"
+      }
+    }
+  },
+  {
+    "clip_id": "M1",
+    "type": "mixed",
+    "language_code": "ml-IN",
+    "run": 2,
+    "audio_s": 4.395,
+    "speech_end_s_est": 4.192,
+    "trailing_silence_s_est": 0.203,
+    "connect_ms": 581,
+    "delay_file_ms": 829,
+    "delay_speech_ms": 1031,
+    "server_latency_ms_last": 263,
+    "segments": 1,
+    "arrived_after_padding": 0,
+    "text": "എൻ്റെ ഗോൾഡ് ലോൺ റിന്യൂ ചെയ്യണം പക്ഷേ ഇൻ്ററസ്റ്റ് റേറ്റ് എത്രയാണെന്നറിയില്ല",
+    "error": "",
+    "detail": {
+      "connect_ms": 581,
+      "segments": 1,
+      "text": "എൻ്റെ ഗോൾഡ് ലോൺ റിന്യൂ ചെയ്യണം പക്ഷേ ഇൻ്ററസ്റ്റ് റേറ്റ് എത്രയാണെന്നറിയില്ല",
+      "final_arrival_s_after_end": 0.8287118331063539,
+      "first_processing_s_after_end": null,
+      "server_latency_ms": [
+        263
+      ],
+      "segment_audio_ms": [
+        4896.0
+      ],
+      "arrived_after_padding": 0,
+      "errors": [],
+      "connected_msg": {
+        "type": "connected",
+        "message": "STT service ready — VAD service connected",
+        "request_id": "01a172b2-b580-7bd7-832a-8d6b420e382b",
+        "config": {
+          "sample_rate": 16000,
+          "chunk_size": 512,
+          "partials_enabled": false,
+          "partial_interval_ms": 450,
+          "partial_max_window_s": 15.0,
+          "language_code": "ml-IN",
+          "format": "verbatim"
+        },
+        "timestamp": "2026-10-25T10:54:37.020122+00:00"
+      }
+    }
+  },
+  {
+    "clip_id": "M1",
+    "type": "mixed",
+    "language_code": "ml-IN",
+    "run": 3,
+    "audio_s": 4.395,
+    "speech_end_s_est": 4.192,
+    "trailing_silence_s_est": 0.203,
+    "connect_ms": 526,
+    "delay_file_ms": 818,
+    "delay_speech_ms": 1021,
+    "server_latency_ms_last": 245,
+    "segments": 1,
+    "arrived_after_padding": 0,
+    "text": "എൻ്റെ ഗോൾഡ് ലോൺ റിന്യൂ ചെയ്യണം പക്ഷേ ഇൻ്ററസ്റ്റ് റേറ്റ് എത്രയാണെന്നറിയില്ല",
+    "error": "",
+    "detail": {
+      "connect_ms": 526,
+      "segments": 1,
+      "text": "എൻ്റെ ഗോൾഡ് ലോൺ റിന്യൂ ചെയ്യണം പക്ഷേ ഇൻ്ററസ്റ്റ് റേറ്റ് എത്രയാണെന്നറിയില്ല",
+      "final_arrival_s_after_end": 0.8179211672395468,
+      "first_processing_s_after_end": null,
+      "server_latency_ms": [
+        245
+      ],
+      "segment_audio_ms": [
+        4896.0
+      ],
+      "arrived_after_padding": 0,
+      "errors": [],
+      "connected_msg": {
+        "type": "connected",
+        "message": "STT service ready — VAD service connected",
+        "request_id": "01a172b2-e08c-77a3-b9fb-ad610efc5cb3",
+        "config": {
+          "sample_rate": 16000,
+          "chunk_size": 512,
+          "partials_enabled": false,
+          "partial_interval_ms": 450,
+          "partial_max_window_s": 15.0,
+          "language_code": "ml-IN",
+          "format": "verbatim"
+        },
+        "timestamp": "2026-10-25T10:54:48.042887+00:00"
+      }
+    }
+  },
+  {
+    "clip_id": "M2",
+    "type": "mixed",
+    "language_code": "ml-IN",
+    "run": 1,
+    "audio_s": 4.288,
+    "speech_end_s_est": 3.968,
+    "trailing_silence_s_est": 0.32,
+    "connect_ms": 505,
+    "delay_file_ms": 627,
+    "delay_speech_ms": 947,
+    "server_latency_ms_last": 227,
+    "segments": 1,
+    "arrived_after_padding": 0,
+    "text": "ഡ്യൂ ഡേറ്റ് കഴിഞ്ഞാൽ പെനാൽറ്റി ഉണ്ടോ ഞാൻ നെക്സ്റ്റ് വീക്ക് പേ ചെയ്യാം",
+    "error": "",
+    "detail": {
+      "connect_ms": 505,
+      "segments": 1,
+      "text": "ഡ്യൂ ഡേറ്റ് കഴിഞ്ഞാൽ പെനാൽറ്റി ഉണ്ടോ ഞാൻ നെക്സ്റ്റ് വീക്ക് പേ ചെയ്യാം",
+      "final_arrival_s_after_end": 0.6269573331810534,
+      "first_processing_s_after_end": null,
+      "server_latency_ms": [
+        227
+      ],
+      "segment_audio_ms": [
+        4608.0
+      ],
+      "arrived_after_padding": 0,
+      "errors": [],
+      "connected_msg": {
+        "type": "connected",
+        "message": "STT service ready — VAD service connected",
+        "request_id": "01a172b3-0ba2-72b4-8f50-3cb554b8881c",
+        "config": {
+          "sample_rate": 16000,
+          "chunk_size": 512,
+          "partials_enabled": false,
+          "partial_interval_ms": 450,
+          "partial_max_window_s": 15.0,
+          "language_code": "ml-IN",
+          "format": "verbatim"
+        },
+        "timestamp": "2026-10-25T10:54:59.058729+00:00"
+      }
+    }
+  },
+  {
+    "clip_id": "M2",
+    "type": "mixed",
+    "language_code": "ml-IN",
+    "run": 2,
+    "audio_s": 4.288,
+    "speech_end_s_est": 3.968,
+    "trailing_silence_s_est": 0.32,
+    "connect_ms": 457,
+    "delay_file_ms": 570,
+    "delay_speech_ms": 890,
+    "server_latency_ms_last": 150,
+    "segments": 1,
+    "arrived_after_padding": 0,
+    "text": "ഡ്യൂ ഡേറ്റ് കഴിഞ്ഞാൽ പെനാൽറ്റി ഉണ്ടോ ഞാൻ നെക്സ്റ്റ് വീക്ക് പേ ചെയ്യാം",
+    "error": "",
+    "detail": {
+      "connect_ms": 457,
+      "segments": 1,
+      "text": "ഡ്യൂ ഡേറ്റ് കഴിഞ്ഞാൽ പെനാൽറ്റി ഉണ്ടോ ഞാൻ നെക്സ്റ്റ് വീക്ക് പേ ചെയ്യാം",
+      "final_arrival_s_after_end": 0.570380707969889,
+      "first_processing_s_after_end": null,
+      "server_latency_ms": [
+        150
+      ],
+      "segment_audio_ms": [
+        4608.0
+      ],
+      "arrived_after_padding": 0,
+      "errors": [],
+      "connected_msg": {
+        "type": "connected",
+        "message": "STT service ready — VAD service connected",
+        "request_id": "01a172b3-3658-7c43-a392-987c6427b35e",
+        "config": {
+          "sample_rate": 16000,
+          "chunk_size": 512,
+          "partials_enabled": false,
+          "partial_interval_ms": 450,
+          "partial_max_window_s": 15.0,
+          "language_code": "ml-IN",
+          "format": "verbatim"
+        },
+        "timestamp": "2026-10-25T10:55:09.996968+00:00"
+      }
+    }
+  },
+  {
+    "clip_id": "M2",
+    "type": "mixed",
+    "language_code": "ml-IN",
+    "run": 3,
+    "audio_s": 4.288,
+    "speech_end_s_est": 3.968,
+    "trailing_silence_s_est": 0.32,
+    "connect_ms": 651,
+    "delay_file_ms": 652,
+    "delay_speech_ms": 972,
+    "server_latency_ms_last": 239,
+    "segments": 1,
+    "arrived_after_padding": 0,
+    "text": "ഡ്യൂ ഡേറ്റ് കഴിഞ്ഞാൽ പെനാൽറ്റി ഉണ്ടോ ഞാൻ നെക്സ്റ്റ് വീക്ക് പേ ചെയ്യാം",
+    "error": "",
+    "detail": {
+      "connect_ms": 651,
+      "segments": 1,
+      "text": "ഡ്യൂ ഡേറ്റ് കഴിഞ്ഞാൽ പെനാൽറ്റി ഉണ്ടോ ഞാൻ നെക്സ്റ്റ് വീക്ക് പേ ചെയ്യാം",
+      "final_arrival_s_after_end": 0.6523552921134979,
+      "first_processing_s_after_end": null,
+      "server_latency_ms": [
+        239
+      ],
+      "segment_audio_ms": [
+        4608.0
+      ],
+      "arrived_after_padding": 0,
+      "errors": [],
+      "connected_msg": {
+        "type": "connected",
+        "message": "STT service ready — VAD service connected",
+        "request_id": "01a172b3-6173-7215-998b-fcef15013cc1",
+        "config": {
+          "sample_rate": 16000,
+          "chunk_size": 512,
+          "partials_enabled": false,
+          "partial_interval_ms": 450,
+          "partial_max_window_s": 15.0,
+          "language_code": "ml-IN",
+          "format": "verbatim"
+        },
+        "timestamp": "2026-10-25T10:55:21.039098+00:00"
+      }
+    }
+  },
+  {
+    "clip_id": "D1",
+    "type": "numbers",
+    "language_code": "en-IN",
+    "run": 1,
+    "audio_s": 10.645,
+    "speech_end_s_est": 10.016,
+    "trailing_silence_s_est": 0.629,
+    "connect_ms": 547,
+    "delay_file_ms": 528,
+    "delay_speech_ms": 1157,
+    "server_latency_ms_last": 221,
+    "segments": 1,
+    "arrived_after_padding": 0,
+    "text": "my loan account number is 7309418265 and the outstanding amount is ₹1,84,500",
+    "error": "",
+    "detail": {
+      "connect_ms": 547,
+      "segments": 1,
+      "text": "my loan account number is 7309418265 and the outstanding amount is ₹1,84,500",
+      "final_arrival_s_after_end": 0.5281132920645177,
+      "first_processing_s_after_end": null,
+      "server_latency_ms": [
+        221
+      ],
+      "segment_audio_ms": [
+        10804.0
+      ],
+      "arrived_after_padding": 0,
+      "errors": [],
+      "connected_msg": {
+        "type": "connected",
+        "message": "STT service ready — VAD service connected",
+        "request_id": "01a172b3-8c18-7a5f-b1ef-056f60d9950c",
+        "config": {
+          "sample_rate": 16000,
+          "chunk_size": 512,
+          "partials_enabled": false,
+          "partial_interval_ms": 450,
+          "partial_max_window_s": 15.0,
+          "language_code": "en-IN",
+          "format": "verbatim"
+        },
+        "timestamp": "2026-10-25T10:55:31.953527+00:00"
+      }
+    }
+  },
+  {
+    "clip_id": "D1",
+    "type": "numbers",
+    "language_code": "en-IN",
+    "run": 2,
+    "audio_s": 10.645,
+    "speech_end_s_est": 10.016,
+    "trailing_silence_s_est": 0.629,
+    "connect_ms": 497,
+    "delay_file_ms": 882,
+    "delay_speech_ms": 1511,
+    "server_latency_ms_last": 226,
+    "segments": 1,
+    "arrived_after_padding": 0,
+    "text": "my loan account number is 7309418265 and the outstanding amount is ₹1,84,500",
+    "error": "",
+    "detail": {
+      "connect_ms": 497,
+      "segments": 1,
+      "text": "my loan account number is 7309418265 and the outstanding amount is ₹1,84,500",
+      "final_arrival_s_after_end": 0.8817117919679731,
+      "first_processing_s_after_end": null,
+      "server_latency_ms": [
+        226
+      ],
+      "segment_audio_ms": [
+        10804.0
+      ],
+      "arrived_after_padding": 0,
+      "errors": [],
+      "connected_msg": {
+        "type": "connected",
+        "message": "STT service ready — VAD service connected",
+        "request_id": "01a172b3-cfeb-7f5e-864e-1308e31c1756",
+        "config": {
+          "sample_rate": 16000,
+          "chunk_size": 512,
+          "partials_enabled": false,
+          "partial_interval_ms": 450,
+          "partial_max_window_s": 15.0,
+          "language_code": "en-IN",
+          "format": "verbatim"
+        },
+        "timestamp": "2026-10-25T10:55:49.321592+00:00"
+      }
+    }
+  },
+  {
+    "clip_id": "D1",
+    "type": "numbers",
+    "language_code": "en-IN",
+    "run": 3,
+    "audio_s": 10.645,
+    "speech_end_s_est": 10.016,
+    "trailing_silence_s_est": 0.629,
+    "connect_ms": 511,
+    "delay_file_ms": 568,
+    "delay_speech_ms": 1197,
+    "server_latency_ms_last": 285,
+    "segments": 1,
+    "arrived_after_padding": 0,
+    "text": "my loan account number is 7309418265 and the outstanding amount is ₹1,84,500",
+    "error": "",
+    "detail": {
+      "connect_ms": 511,
+      "segments": 1,
+      "text": "my loan account number is 7309418265 and the outstanding amount is ₹1,84,500",
+      "final_arrival_s_after_end": 0.5677837911061943,
+      "first_processing_s_after_end": null,
+      "server_latency_ms": [
+        285
+      ],
+      "segment_audio_ms": [
+        10804.0
+      ],
+      "arrived_after_padding": 0,
+      "errors": [],
+      "connected_msg": {
+        "type": "connected",
+        "message": "STT service ready — VAD service connected",
+        "request_id": "01a172b4-1411-741d-aba3-6623f0fc2841",
+        "config": {
+          "sample_rate": 16000,
+          "chunk_size": 512,
+          "partials_enabled": false,
+          "partial_interval_ms": 450,
+          "partial_max_window_s": 15.0,
+          "language_code": "en-IN",
+          "format": "verbatim"
+        },
+        "timestamp": "2026-10-25T10:56:06.752913+00:00"
+      }
+    }
+  },
+  {
+    "clip_id": "D2",
+    "type": "numbers",
+    "language_code": "en-IN",
+    "run": 1,
+    "audio_s": 8.469,
+    "speech_end_s_est": 7.456,
+    "trailing_silence_s_est": 1.013,
+    "connect_ms": 515,
+    "delay_file_ms": -125,
+    "delay_speech_ms": 888,
+    "server_latency_ms_last": 159,
+    "segments": 1,
+    "arrived_after_padding": 0,
+    "text": "i pledged 42.5 grams of 22 carat gold on 14th March 2026",
+    "error": "",
+    "detail": {
+      "connect_ms": 515,
+      "segments": 1,
+      "text": "i pledged 42.5 grams of 22 carat gold on 14th March 2026",
+      "final_arrival_s_after_end": -0.12542483396828175,
+      "first_processing_s_after_end": null,
+      "server_latency_ms": [
+        159
+      ],
+      "segment_audio_ms": [
+        8096.0
+      ],
+      "arrived_after_padding": 0,
+      "errors": [],
+      "connected_msg": {
+        "type": "connected",
+        "message": "STT service ready — VAD service connected",
+        "request_id": "01a172b4-58ef-74fe-b48f-27b1618269c4",
+        "config": {
+          "sample_rate": 16000,
+          "chunk_size": 512,
+          "partials_enabled": false,
+          "partial_interval_ms": 450,
+          "partial_max_window_s": 15.0,
+          "language_code": "en-IN",
+          "format": "verbatim"
+        },
+        "timestamp": "2026-10-25T10:56:24.386292+00:00"
+      }
+    }
+  },
+  {
+    "clip_id": "D2",
+    "type": "numbers",
+    "language_code": "en-IN",
+    "run": 2,
+    "audio_s": 8.469,
+    "speech_end_s_est": 7.456,
+    "trailing_silence_s_est": 1.013,
+    "connect_ms": 529,
+    "delay_file_ms": 3,
+    "delay_speech_ms": 1016,
+    "server_latency_ms_last": 203,
+    "segments": 1,
+    "arrived_after_padding": 0,
+    "text": "i pledged 42.5 grams of 22 carat gold on 14th March 2026",
+    "error": "",
+    "detail": {
+      "connect_ms": 529,
+      "segments": 1,
+      "text": "i pledged 42.5 grams of 22 carat gold on 14th March 2026",
+      "final_arrival_s_after_end": 0.002504624892026186,
+      "first_processing_s_after_end": null,
+      "server_latency_ms": [
+        203
+      ],
+      "segment_audio_ms": [
+        8096.0
+      ],
+      "arrived_after_padding": 0,
+      "errors": [],
+      "connected_msg": {
+        "type": "connected",
+        "message": "STT service ready — VAD service connected",
+        "request_id": "01a172b4-9429-7aeb-ab85-8e7672fd73de",
+        "config": {
+          "sample_rate": 16000,
+          "chunk_size": 512,
+          "partials_enabled": false,
+          "partial_interval_ms": 450,
+          "partial_max_window_s": 15.0,
+          "language_code": "en-IN",
+          "format": "verbatim"
+        },
+        "timestamp": "2026-10-25T10:56:39.541809+00:00"
+      }
+    }
+  },
+  {
+    "clip_id": "D2",
+    "type": "numbers",
+    "language_code": "en-IN",
+    "run": 3,
+    "audio_s": 8.469,
+    "speech_end_s_est": 7.456,
+    "trailing_silence_s_est": 1.013,
+    "connect_ms": 457,
+    "delay_file_ms": -43,
+    "delay_speech_ms": 971,
+    "server_latency_ms_last": 228,
+    "segments": 1,
+    "arrived_after_padding": 0,
+    "text": "i pledged 42.5 grams of 22 carat gold on 14th March 2026",
+    "error": "",
+    "detail": {
+      "connect_ms": 457,
+      "segments": 1,
+      "text": "i pledged 42.5 grams of 22 carat gold on 14th March 2026",
+      "final_arrival_s_after_end": -0.042646040907129645,
+      "first_processing_s_after_end": null,
+      "server_latency_ms": [
+        228
+      ],
+      "segment_audio_ms": [
+        8096.0
+      ],
+      "arrived_after_padding": 0,
+      "errors": [],
+      "connected_msg": {
+        "type": "connected",
+        "message": "STT service ready — VAD service connected",
+        "request_id": "01a172b4-cef4-72de-8bb4-1027f4614731",
+        "config": {
+          "sample_rate": 16000,
+          "chunk_size": 512,
+          "partials_enabled": false,
+          "partial_interval_ms": 450,
+          "partial_max_window_s": 15.0,
+          "language_code": "en-IN",
+          "format": "verbatim"
+        },
+        "timestamp": "2026-10-25T10:56:54.598425+00:00"
+      }
+    }
+  },
+  {
+    "clip_id": "D3",
+    "type": "numbers",
+    "language_code": "ml-IN",
+    "run": 1,
+    "audio_s": 4.715,
+    "speech_end_s_est": 4.256,
+    "trailing_silence_s_est": 0.459,
+    "connect_ms": 457,
+    "delay_file_ms": 606,
+    "delay_speech_ms": 1065,
+    "server_latency_ms_last": 234,
+    "segments": 1,
+    "arrived_after_padding": 0,
+    "text": "എനിക്ക് രണ്ട് ലക്ഷത്തി പതിനായിരം രൂപ വേണം പലിശ ഒൻപതായിരം ശതമാനം",
+    "error": "",
+    "detail": {
+      "connect_ms": 457,
+      "segments": 1,
+      "text": "എനിക്ക് രണ്ട് ലക്ഷത്തി പതിനായിരം രൂപ വേണം പലിശ ഒൻപതായിരം ശതമാനം",
+      "final_arrival_s_after_end": 0.6058789168018848,
+      "first_processing_s_after_end": null,
+      "server_latency_ms": [
+        234
+      ],
+      "segment_audio_ms": [
+        4960.0
+      ],
+      "arrived_after_padding": 0,
+      "errors": [],
+      "connected_msg": {
+        "type": "connected",
+        "message": "STT service ready — VAD service connected",
+        "request_id": "01a172b5-099f-75a6-ace1-b9d188811e55",
+        "config": {
+          "sample_rate": 16000,
+          "chunk_size": 512,
+          "partials_enabled": false,
+          "partial_interval_ms": 450,
+          "partial_max_window_s": 15.0,
+          "language_code": "ml-IN",
+          "format": "verbatim"
+        },
+        "timestamp": "2026-10-25T10:57:09.613632+00:00"
+      }
+    }
+  },
+  {
+    "clip_id": "D3",
+    "type": "numbers",
+    "language_code": "ml-IN",
+    "run": 2,
+    "audio_s": 4.715,
+    "speech_end_s_est": 4.256,
+    "trailing_silence_s_est": 0.459,
+    "connect_ms": 487,
+    "delay_file_ms": 467,
+    "delay_speech_ms": 926,
+    "server_latency_ms_last": 147,
+    "segments": 1,
+    "arrived_after_padding": 0,
+    "text": "എനിക്ക് രണ്ട് ലക്ഷത്തി പതിനായിരം രൂപ വേണം പലിശ ഒൻപതായിരം ശതമാനം",
+    "error": "",
+    "detail": {
+      "connect_ms": 487,
+      "segments": 1,
+      "text": "എനിക്ക് രണ്ട് ലക്ഷത്തി പതിനായിരം രൂപ വേണം പലിശ ഒൻപതായിരം ശതമാനം",
+      "final_arrival_s_after_end": 0.467024042038247,
+      "first_processing_s_after_end": null,
+      "server_latency_ms": [
+        147
+      ],
+      "segment_audio_ms": [
+        4960.0
+      ],
+      "arrived_after_padding": 0,
+      "errors": [],
+      "connected_msg": {
+        "type": "connected",
+        "message": "STT service ready — VAD service connected",
+        "request_id": "01a172b5-35bd-7605-96f6-17ad3af76511",
+        "config": {
+          "sample_rate": 16000,
+          "chunk_size": 512,
+          "partials_enabled": false,
+          "partial_interval_ms": 450,
+          "partial_max_window_s": 15.0,
+          "language_code": "ml-IN",
+          "format": "verbatim"
+        },
+        "timestamp": "2026-10-25T10:57:20.919014+00:00"
+      }
+    }
+  },
+  {
+    "clip_id": "D3",
+    "type": "numbers",
+    "language_code": "ml-IN",
+    "run": 3,
+    "audio_s": 4.715,
+    "speech_end_s_est": 4.256,
+    "trailing_silence_s_est": 0.459,
+    "connect_ms": 844,
+    "delay_file_ms": 566,
+    "delay_speech_ms": 1024,
+    "server_latency_ms_last": 251,
+    "segments": 1,
+    "arrived_after_padding": 0,
+    "text": "എനിക്ക് രണ്ട് ലക്ഷത്തി പതിനായിരം രൂപ വേണം പലിശ ഒൻപതായിരം ശതമാനം",
+    "error": "",
+    "detail": {
+      "connect_ms": 844,
+      "segments": 1,
+      "text": "എനിക്ക് രണ്ട് ലക്ഷത്തി പതിനായിരം രൂപ വേണം പലിശ ഒൻപതായിരം ശതമാനം",
+      "final_arrival_s_after_end": 0.5657365410588682,
+      "first_processing_s_after_end": null,
+      "server_latency_ms": [
+        251
+      ],
+      "segment_audio_ms": [
+        4960.0
+      ],
+      "arrived_after_padding": 0,
+      "errors": [],
+      "connected_msg": {
+        "type": "connected",
+        "message": "STT service ready — VAD service connected",
+        "request_id": "01a172b5-64ba-7960-9da0-991612d7a967",
+        "config": {
+          "sample_rate": 16000,
+          "chunk_size": 512,
+          "partials_enabled": false,
+          "partial_interval_ms": 450,
+          "partial_max_window_s": 15.0,
+          "language_code": "ml-IN",
+          "format": "verbatim"
+        },
+        "timestamp": "2026-10-25T10:57:32.942262+00:00"
+      }
+    }
+  },
+  {
+    "clip_id": "P1",
+    "type": "phone",
+    "language_code": "en-IN",
+    "run": 1,
+    "audio_s": 17.02,
+    "speech_end_s_est": 16.96,
+    "trailing_silence_s_est": 0.06,
+    "connect_ms": 531,
+    "delay_file_ms": -5362,
+    "delay_speech_ms": -5302,
+    "server_latency_ms_last": 54,
+    "segments": 2,
+    "arrived_after_padding": 0,
+    "text": "my loan account number is 7309412265 and the outstanding amount is ₹1,84,500 ",
+    "error": "",
+    "detail": {
+      "connect_ms": 531,
+      "segments": 2,
+      "text": "my loan account number is 7309412265 and the outstanding amount is ₹1,84,500 ",
+      "final_arrival_s_after_end": -5.3618287078570575,
+      "first_processing_s_after_end": null,
+      "server_latency_ms": [
+        223,
+        54
+      ],
+      "segment_audio_ms": [
+        10644.0,
+        672.0
+      ],
+      "arrived_after_padding": 0,
+      "errors": [],
+      "connected_msg": {
+        "type": "connected",
+        "message": "STT service ready — VAD service connected",
+        "request_id": "01a172b5-912c-732e-ad6a-8c2bc6be6402",
+        "config": {
+          "sample_rate": 16000,
+          "chunk_size": 512,
+          "partials_enabled": false,
+          "partial_interval_ms": 450,
+          "partial_max_window_s": 15.0,
+          "language_code": "en-IN",
+          "format": "verbatim"
+        },
+        "timestamp": "2026-10-25T10:57:44.335641+00:00"
+      }
+    }
+  },
+  {
+    "clip_id": "P1",
+    "type": "phone",
+    "language_code": "en-IN",
+    "run": 2,
+    "audio_s": 17.02,
+    "speech_end_s_est": 16.96,
+    "trailing_silence_s_est": 0.06,
+    "connect_ms": 598,
+    "delay_file_ms": -5345,
+    "delay_speech_ms": -5285,
+    "server_latency_ms_last": 77,
+    "segments": 2,
+    "arrived_after_padding": 0,
+    "text": "my loan account number is 7309412265 and the outstanding amount is ₹1,84,500 ",
+    "error": "",
+    "detail": {
+      "connect_ms": 598,
+      "segments": 2,
+      "text": "my loan account number is 7309412265 and the outstanding amount is ₹1,84,500 ",
+      "final_arrival_s_after_end": -5.345044541172683,
+      "first_processing_s_after_end": null,
+      "server_latency_ms": [
+        139,
+        77
+      ],
+      "segment_audio_ms": [
+        10644.0,
+        672.0
+      ],
+      "arrived_after_padding": 0,
+      "errors": [],
+      "connected_msg": {
+        "type": "connected",
+        "message": "STT service ready — VAD service connected",
+        "request_id": "01a172b5-ed65-7a36-b711-b557e03a67f5",
+        "config": {
+          "sample_rate": 16000,
+          "chunk_size": 512,
+          "partials_enabled": false,
+          "partial_interval_ms": 450,
+          "partial_max_window_s": 15.0,
+          "language_code": "en-IN",
+          "format": "verbatim"
+        },
+        "timestamp": "2026-10-25T10:58:08.019251+00:00"
+      }
+    }
+  },
+  {
+    "clip_id": "P1",
+    "type": "phone",
+    "language_code": "en-IN",
+    "run": 3,
+    "audio_s": 17.02,
+    "speech_end_s_est": 16.96,
+    "trailing_silence_s_est": 0.06,
+    "connect_ms": 444,
+    "delay_file_ms": -5123,
+    "delay_speech_ms": -5063,
+    "server_latency_ms_last": 298,
+    "segments": 2,
+    "arrived_after_padding": 0,
+    "text": "my loan account number is 7309412265 and the outstanding amount is ₹1,84,500 ",
+    "error": "",
+    "detail": {
+      "connect_ms": 444,
+      "segments": 2,
+      "text": "my loan account number is 7309412265 and the outstanding amount is ₹1,84,500 ",
+      "final_arrival_s_after_end": -5.123484833864495,
+      "first_processing_s_after_end": null,
+      "server_latency_ms": [
+        242,
+        298
+      ],
+      "segment_audio_ms": [
+        10644.0,
+        672.0
+      ],
+      "arrived_after_padding": 0,
+      "errors": [],
+      "connected_msg": {
+        "type": "connected",
+        "message": "STT service ready — VAD service connected",
+        "request_id": "01a172b6-4a1d-714b-8434-995ef597c698",
+        "config": {
+          "sample_rate": 16000,
+          "chunk_size": 512,
+          "partials_enabled": false,
+          "partial_interval_ms": 450,
+          "partial_max_window_s": 15.0,
+          "language_code": "en-IN",
+          "format": "verbatim"
+        },
+        "timestamp": "2026-10-25T10:58:31.662936+00:00"
+      }
+    }
+  },
+  {
+    "clip_id": "P2",
+    "type": "phone",
+    "language_code": "ml-IN",
+    "run": 1,
+    "audio_s": 7.442,
+    "speech_end_s_est": 5.024,
+    "trailing_silence_s_est": 2.418,
+    "connect_ms": 485,
+    "delay_file_ms": -1484,
+    "delay_speech_ms": 934,
+    "server_latency_ms_last": 258,
+    "segments": 1,
+    "arrived_after_padding": 0,
+    "text": "എൻ്റെ ഗോൾഡ് ലോൺ റിന്യൂ ചെയ്യണം പക്ഷേ ഇൻട്രസ്റ്റ് റേറ്റ് എത്രയാണെന്ന് അറിയില്ല",
+    "error": "",
+    "detail": {
+      "connect_ms": 485,
+      "segments": 1,
+      "text": "എൻ്റെ ഗോൾഡ് ലോൺ റിന്യൂ ചെയ്യണം പക്ഷേ ഇൻട്രസ്റ്റ് റേറ്റ് എത്രയാണെന്ന് അറിയില്ല",
+      "final_arrival_s_after_end": -1.4840814170893282,
+      "first_processing_s_after_end": null,
+      "server_latency_ms": [
+        258
+      ],
+      "segment_audio_ms": [
+        4916.0
+      ],
+      "arrived_after_padding": 0,
+      "errors": [],
+      "connected_msg": {
+        "type": "connected",
+        "message": "STT service ready — VAD service connected",
+        "request_id": "01a172b6-a638-7eca-a50c-3247e6f932ec",
+        "config": {
+          "sample_rate": 16000,
+          "chunk_size": 512,
+          "partials_enabled": false,
+          "partial_interval_ms": 450,
+          "partial_max_window_s": 15.0,
+          "language_code": "ml-IN",
+          "format": "verbatim"
+        },
+        "timestamp": "2026-10-25T10:58:55.242265+00:00"
+      }
+    }
+  },
+  {
+    "clip_id": "P2",
+    "type": "phone",
+    "language_code": "ml-IN",
+    "run": 2,
+    "audio_s": 7.442,
+    "speech_end_s_est": 5.024,
+    "trailing_silence_s_est": 2.418,
+    "connect_ms": 455,
+    "delay_file_ms": -1459,
+    "delay_speech_ms": 960,
+    "server_latency_ms_last": 283,
+    "segments": 1,
+    "arrived_after_padding": 0,
+    "text": "എൻ്റെ ഗോൾഡ് ലോൺ റിന്യൂ ചെയ്യണം പക്ഷേ ഇൻട്രസ്റ്റ് റേറ്റ് എത്രയാണെന്ന് അറിയില്ല",
+    "error": "",
+    "detail": {
+      "connect_ms": 455,
+      "segments": 1,
+      "text": "എൻ്റെ ഗോൾഡ് ലോൺ റിന്യൂ ചെയ്യണം പക്ഷേ ഇൻട്രസ്റ്റ് റേറ്റ് എത്രയാണെന്ന് അറിയില്ല",
+      "final_arrival_s_after_end": -1.4585965420119464,
+      "first_processing_s_after_end": null,
+      "server_latency_ms": [
+        283
+      ],
+      "segment_audio_ms": [
+        4916.0
+      ],
+      "arrived_after_padding": 0,
+      "errors": [],
+      "connected_msg": {
+        "type": "connected",
+        "message": "STT service ready — VAD service connected",
+        "request_id": "01a172b6-dcf5-7490-8caf-c60a80d4e076",
+        "config": {
+          "sample_rate": 16000,
+          "chunk_size": 512,
+          "partials_enabled": false,
+          "partial_interval_ms": 450,
+          "partial_max_window_s": 15.0,
+          "language_code": "ml-IN",
+          "format": "verbatim"
+        },
+        "timestamp": "2026-10-25T10:59:09.251371+00:00"
+      }
+    }
+  },
+  {
+    "clip_id": "P2",
+    "type": "phone",
+    "language_code": "ml-IN",
+    "run": 3,
+    "audio_s": 7.442,
+    "speech_end_s_est": 5.024,
+    "trailing_silence_s_est": 2.418,
+    "connect_ms": 449,
+    "delay_file_ms": -1570,
+    "delay_speech_ms": 848,
+    "server_latency_ms_last": 167,
+    "segments": 1,
+    "arrived_after_padding": 0,
+    "text": "എൻ്റെ ഗോൾഡ് ലോൺ റിന്യൂ ചെയ്യണം പക്ഷേ ഇൻട്രസ്റ്റ് റേറ്റ് എത്രയാണെന്ന് അറിയില്ല",
+    "error": "",
+    "detail": {
+      "connect_ms": 449,
+      "segments": 1,
+      "text": "എൻ്റെ ഗോൾഡ് ലോൺ റിന്യൂ ചെയ്യണം പക്ഷേ ഇൻട്രസ്റ്റ് റേറ്റ് എത്രയാണെന്ന് അറിയില്ല",
+      "final_arrival_s_after_end": -1.5702111248392612,
+      "first_processing_s_after_end": null,
+      "server_latency_ms": [
+        167
+      ],
+      "segment_audio_ms": [
+        4916.0
+      ],
+      "arrived_after_padding": 0,
+      "errors": [],
+      "connected_msg": {
+        "type": "connected",
+        "message": "STT service ready — VAD service connected",
+        "request_id": "01a172b7-1405-7c64-81b9-7e32debddce6",
+        "config": {
+          "sample_rate": 16000,
+          "chunk_size": 512,
+          "partials_enabled": false,
+          "partial_interval_ms": 450,
+          "partial_max_window_s": 15.0,
+          "language_code": "ml-IN",
+          "format": "verbatim"
+        },
+        "timestamp": "2026-10-25T10:59:23.349681+00:00"
+      }
+    }
+  }
+]

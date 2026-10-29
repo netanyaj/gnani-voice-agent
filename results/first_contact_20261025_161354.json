@@ -1,0 +1,40 @@
+{
+  "stt": {
+    "status": 200,
+    "rtt_ms": 907,
+    "headers": {
+      "Date": "Sun, 25 Oct 2026 10:43:52 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "server": "cloudflare",
+      "cf-cache-status": "DYNAMIC",
+      "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=fk2lDaGO%2ByY3RpOTAZW8J6goSoxRkYMNY48HHKsAbNcyP87hZG5gNtDAu%2BIq4xmHR3kZV4DChPlGk7JZc%2B0eQKaE7w9PcIS32yJdC4Mtks4IeB7afSqSP644B1mjs6Gq\"}]}",
+      "Content-Encoding": "gzip",
+      "CF-RAY": "a5009f6c1980471a-COK"
+    },
+    "body": "{\"success\":true,\"request_id\":\"01a172a8-e06c-7af8-be39-a69c9818fd3f\",\"transcript\":\"hi i'm calling about my gold loan my account number ends in 4521 can you tell me the due date\",\"model\":\"gnani-prisma-v2.5\",\"processing_time\":0.16127777099609375,\"end_to_end_latency\":0.3133094310760498,\"output\":{\"literal\":\"hi i'm calling about my gold loan my account number ends in four five two one can you tell me the due date\"}}"
+  },
+  "tts": {
+    "status": 200,
+    "rtt_ms": 1609,
+    "headers": {
+      "Date": "Sun, 25 Oct 2026 10:43:54 GMT",
+      "Content-Type": "audio/wav",
+      "Content-Length": "522284",
+      "Connection": "keep-alive",
+      "server": "cloudflare",
+      "content-disposition": "attachment; filename=audio.wav",
+      "x-audio-container": "wav",
+      "x-api-request-id": "01a172a8-e28d-77f9-9447-c287f2d31aae",
+      "cf-cache-status": "DYNAMIC",
+      "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=YN9AFq53mK79pNrihwYOOBLnc6wSfHjocAhWF%2FpWn%2FKE9IT7UEPZrfl9sStF48EhfiazJJco0MXWiMzyG7%2B%2Fe3a46t9pxdRTFrTd4otl%2FuM%2F9okPYKMUEGpNqnL2sdWp\"}]}",
+      "CF-RAY": "a5009f70cc9c74ad-COK"
+    },
+    "bytes": 522284,
+    "saved": "results/tts/first_contact_20261025_161354.wav",
+    "text": "Your gold loan payment of Rs 4,521 is due on 28 October 2026."
+  }
+}

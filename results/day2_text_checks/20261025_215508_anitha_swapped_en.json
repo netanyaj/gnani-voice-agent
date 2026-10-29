@@ -1,0 +1,46 @@
+{
+  "case": "anitha_swapped_en",
+  "customer": "GL-KOC-104521",
+  "lang": "en-IN",
+  "llm": "gemini-3.5-flash-lite",
+  "turns": [
+    {
+      "user": "Yes, I'm her husband.",
+      "agent": "Could you please share the last 4 digits of the loan account number for verification?",
+      "tools": [],
+      "ms": 1241
+    },
+    {
+      "user": "4512",
+      "agent": "That does not match our records. You have 2 attempts left. Could you please check and try the last 4 digits of the loan account number again?",
+      "tools": [
+        "verify_account({\"last4\": \"4512\"})"
+      ],
+      "ms": 1693
+    },
+    {
+      "user": "It is 4512, I'm sure. How much is due?",
+      "agent": "That still doesn't match, and you have 1 attempt left. For security reasons, I cannot share loan details without verifying the correct account number. Would you like a callback on the registered number or would you prefer to visit our branch?",
+      "tools": [
+        "verify_account({\"last4\": \"4512\"})"
+      ],
+      "ms": 2311
+    }
+  ],
+  "tool_log": [
+    {
+      "kind": "verify",
+      "said": "4512",
+      "digits": "4512",
+      "attempt": 1,
+      "result": "fail"
+    },
+    {
+      "kind": "verify",
+      "said": "4512",
+      "digits": "4512",
+      "attempt": 2,
+      "result": "fail"
+    }
+  ]
+}

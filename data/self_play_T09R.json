@@ -1,0 +1,18 @@
+{
+  "label": "T09-R",
+  "customer": "GL-EKM-131408",
+  "agent_lang": "ml-IN",
+  "caller": "Suresh Kumar (invented)",
+  "caller_voice": "Devansh",
+  "caller_model": "timbre-v3.0",
+  "checklist": "Malayalam first, give 1408, ask the due amount; then ask in English how much top-up he can get; accept a branch visit; thank and end.",
+  "lines": [
+    {"lang": "ml-IN", "text": "അതെ, സുരേഷ് ആണ് സംസാരിക്കുന്നത്."},
+    {"lang": "ml-IN", "text": "ഒന്ന് നാല് പൂജ്യം എട്ട്."},
+    {"lang": "ml-IN", "text": "ആകെ എത്ര രൂപയാണ് അടയ്ക്കാനുള്ളത്?"},
+    {"lang": "en-IN", "text": "Okay. How much top-up can I get on this loan?"},
+    {"lang": "en-IN", "text": "Fine, I will visit the branch for that."},
+    {"lang": "en-IN", "text": "Yes, please book it."},
+    {"lang": "en-IN", "text": "Thank you, that's all. Bye."}
+  ]
+}
